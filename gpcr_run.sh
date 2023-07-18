@@ -1,0 +1,1 @@
+python -m inference --protein_ligand_csv gpcr_tests/gpcr_experiments.csv --out_dir gpcr_tests/gpcr_results/ --inference_steps 20 --samples_per_complex 40 --batch_size 10 --actual_steps 18 --no_final_step_noise
