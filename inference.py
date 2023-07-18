@@ -63,6 +63,7 @@ else:
     ligand_description_list = [args.ligand_description]
 
 complex_name_list = [name if name is not None else f"complex_{i}" for i, name in enumerate(complex_name_list)]
+print (complex_name_list)
 for name in complex_name_list:
     write_dir = f'{args.out_dir}/{name}'
     os.makedirs(write_dir, exist_ok=True)
