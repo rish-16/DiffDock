@@ -1,0 +1,78 @@
+
+     RDKit          3D
+
+ 12 12  0  0  0  0  0  0  0  0999 V2000
+   69.7553   49.7391    8.0773 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.5492   49.3583    7.5235 C   0  0  0  0  0  0  0  0  0  0  0  0
+   67.3625   49.3689    8.2102 C   0  0  0  0  0  0  0  0  0  0  0  0
+   67.3813   49.7829    9.5236 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.5644   50.1827   10.1509 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.7131   50.1466    9.4036 C   0  0  0  0  0  0  0  0  0  0  0  0
+   70.9887   49.7116    7.3105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   66.1194   48.9524    7.5624 C   0  0  0  0  0  0  0  0  0  0  0  0
+   65.9378   49.1140    6.3273 O   0  0  0  0  0  0  0  0  0  0  0  0
+   71.0294   49.2431    6.1532 O   0  0  0  0  0  0  0  0  0  0  0  0
+   65.0519   48.3458    8.2818 N   0  0  0  0  0  0  0  0  0  0  0  0
+   72.1607   50.2252    7.8888 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0
+ 12  7  1  0
+ 10  7  2  0
+  3  8  1  0
+ 11  8  1  0
+  9  8  2  0
+  2  1  2  0
+  6  1  1  0
+  2  3  1  0
+  4  3  2  0
+  5  6  2  0
+  5  4  1  0
+M  END
+>  <ID>  (1) 
+CHEBI:38801
+
+>  <NAME>  (1) 
+isophthalamide
+
+>  <STAR>  (1) 
+3
+
+>  <SYNONYM>  (1) 
+m-phthalamide; m-carbamoylbenzamide; isophthalic acid diamide; isophthaldiamide; isophthalamide; 1,3-benzenedicarboxamide
+
+>  <IUPAC_NAME>  (1) 
+benzene-1,3-dicarboxamide
+
+>  <FORMULA>  (1) 
+C8H8N2O2
+
+>  <MASS>  (1) 
+164.16140
+
+>  <MONOISOTOPIC_MASS>  (1) 
+164.05858
+
+>  <CHARGE>  (1) 
+0
+
+>  <SMILES>  (1) 
+NC(=O)c1cccc(c1)C(N)=O
+
+>  <INCHI>  (1) 
+InChI=1S/C8H8N2O2/c9-7(11)5-2-1-3-6(4-5)8(10)12/h1-4H,(H2,9,11)(H2,10,12)
+
+>  <INCHIKEY>  (1) 
+QZUPTXGVPYNUIT-UHFFFAOYSA-N
+
+>  <BEILSTEIN_REGISTRY_NUMBER>  (1) 
+2045544
+
+>  <CAS_REGISTRY_NUMBER>  (1) 
+1740-57-4
+
+>  <CHEMIDPLUS>  (1) 
+1740-57-4
+
+>  <NIST_CHEMISTRY_WEBBOOK>  (1) 
+1740-57-4
+
+$$$$
