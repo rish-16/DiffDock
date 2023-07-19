@@ -9,6 +9,8 @@ images
 __pycache__/
 *.py[cod]
 *$py.class
+PDBBind/
+GPCRmd/
 
 # C extensions
 *.so
