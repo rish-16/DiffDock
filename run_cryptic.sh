@@ -1,6 +1,6 @@
-python -m inference --protein_path cryptic_test/5uoj.pdb \
-                    --complex_name "5uoj_octylglucoside" \
-                    --ligand cryptic_test/octylglucoside.sdf \
+python -m inference --protein_path cryptic_test/1w50_apo.pdb \
+                    --complex_name "1w50_isophthalamide" \
+                    --ligand cryptic_test/isophthalamide.sdf \
                     --out_dir cryptic_test/ \
                     --inference_steps 20 \
                     --samples_per_complex 40 \
