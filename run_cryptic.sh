@@ -1,6 +1,6 @@
-python -m inference --protein_path cryptic_tests/5uoj.pdb \
-                    --ligand cryptic_tests/octylglucoside.sdf \
-                    --out_dir cryptic_tests/ \
+python -m inference --protein_path cryptic_test/5uoj.pdb \
+                    --ligand cryptic_test/octylglucoside.sdf \
+                    --out_dir cryptic_test/ \
                     --inference_steps 20 \
                     --samples_per_complex 40 \
                     --batch_size 10 \
