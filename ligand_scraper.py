@@ -8,19 +8,19 @@ from bs4 import BeautifulSoup # pip install beautifulsoup4
 FILE = "avail_gpcrmd_data.csv"
 df = pd.read_csv(FILE)
 holo_idx = df['ConformationalType'] == "Holo"
-gpcrmd_ids = df[holo_idx]['GPCRmd_ID'].values.tolist()
-gpcrmd_conftypes = df['ConformationalType'].values.tolist()
-gpcrmd_pdb_ids = df['PDB_ID'].values.tolist()
 
-# print (gpcrmd_ids)
+gpcrmd_ids = df[holo_idx]['GPCRmd_ID'].values.tolist()
+gpcrmd_conftypes = df[holo_idx]['ConformationalType'].values.tolist()
+gpcrmd_pdb_ids = df[holo_idx]['PDB_ID'].values.tolist()
+
 URL_STORE = {}
 url_prefix = "https://submission.gpcrmd.org/dynadb/dynamics/id/"
 dwld_prefix = "https://submission.gpcrmd.org/"
 
 for i, idx in enumerate(gpcrmd_ids):
     try:
-        # if i % 50 == 0:
-            # print (f"Currently at sample {i}")
+        if i % 50 == 0:
+            print (f"Currently at sample {i}")
 
         URL = url_prefix + str(idx)
         html_page = urllib.request.urlopen(URL)
@@ -40,13 +40,16 @@ for i, idx in enumerate(gpcrmd_ids):
         smiles_cont = container.select("div.panel-body")[0].text
         smiles_string = smiles_cont.split("<br>")[0].split(" ")[1]
 
-        print (idx, dwld_url, smiles_cont.split("<br>")[0].split(" ")[1])
+        # print (idx, dwld_url, smiles_cont.split("<br>")[0].split(" ")[1])
         URL_STORE[str(idx)] = {
             "string": smiles_string,
             "conftype": gpcrmd_conftypes[i],
             "PDB_ID": gpcrmd_pdb_ids[i],
             "GPCRmd_ID": str(idx)
         }
+
+        if str(idx) == "845":
+            print ("845", gpcrmd_pdb_ids[i], gpcrmd_conftypes[i])
         
     except Exception as e:
         print (f"Failed to fetch URLS for {str(idx)}")

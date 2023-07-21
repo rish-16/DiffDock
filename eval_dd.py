@@ -37,6 +37,9 @@ for pdb in PDB_IDS:
 # print (records)
 avail_recs = {item : val for item, val in records.items() if len(val['apo']) >= 1 and len(val['holo']) >= 1} # find pairs where both an apo and holo structure exist
 
+print ("5WQC" in avail_recs)
+print ("2RH1" in avail_recs)
+
 with open("gpcrmd_ligand_link_store.json", "r") as f:
     ligand_recs = json.load(f)
 
@@ -51,8 +54,13 @@ for i, (pdb, ids) in enumerate(avail_recs.items()):
     """
 
     apos, holos = ids['apo'], ids['holo']
+    if pdb == "5WQC":
+        print ("5WQC", apos, holos)
 
-    k = min(len(apos), len(holos))
+    if pdb == "2RH1":
+        print ("2RH1_98", apos, holos)
+
+    # k = min(len(apos), len(holos))
 
     for j in range(k):
         first_apo_id = apos[j]

@@ -1,1574 +1,1574 @@
 {
     "909": {
         "string": "CN1CCN(CC1)C2CC3=CC=CC=C3SC4=C2C=C(C=C4)SC",
-        "conftype": "Apo",
+        "conftype": "Holo",
         "PDB_ID": "5V54",
         "GPCRmd_ID": "909"
     },
     "90": {
         "string": "O=C([C@H]1C[N@@H+](C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)N[C@]1(C)O[C@@]2(N(C1=O)[C@@H](Cc1ccccc1)C(=O)N1[C@H]2CCC1)O",
         "conftype": "Holo",
-        "PDB_ID": "5V54",
+        "PDB_ID": "4IAR",
         "GPCRmd_ID": "90"
     },
     "802": {
         "string": "CN(C)CCOC1=CC2=CC=CC=C2SC3=C1C=C(C=C3)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "4IAR",
+        "conftype": "Holo",
+        "PDB_ID": "6A94",
         "GPCRmd_ID": "802"
     },
     "849": {
         "string": "CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F",
         "conftype": "Holo",
-        "PDB_ID": "4IAR",
+        "PDB_ID": "6A93",
         "GPCRmd_ID": "849"
     },
     "94": {
         "string": "O=C([C@H]1C[N@@H+](C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)N[C@]1(C)O[C@@]2(N(C1=O)[C@@H](Cc1ccccc1)C(=O)N1[C@H]2CCC1)O",
-        "conftype": "Apo",
-        "PDB_ID": "4IAQ",
+        "conftype": "Holo",
+        "PDB_ID": "4IB4",
         "GPCRmd_ID": "94"
     },
     "919": {
         "string": "CCC(CO)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C",
-        "conftype": "Apo",
-        "PDB_ID": "6A94",
+        "conftype": "Holo",
+        "PDB_ID": "6DRY",
         "GPCRmd_ID": "919"
     },
     "214": {
         "string": "CCN(C(=O)[C@H]1C[NH+](C)[C@H]2C(=C1)c1cccc3c1c(C2)c[nH]3)CC",
         "conftype": "Holo",
-        "PDB_ID": "6A94",
+        "PDB_ID": "5TVN",
         "GPCRmd_ID": "214"
     },
     "847": {
         "string": "CCN(CC)C(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C",
-        "conftype": "Apo",
-        "PDB_ID": "6A93",
+        "conftype": "Holo",
+        "PDB_ID": "5TVN",
         "GPCRmd_ID": "847"
     },
     "719": {
         "string": "CCN(CC)C(=O)NC1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C",
         "conftype": "Holo",
-        "PDB_ID": "6A93",
+        "PDB_ID": "6DRX",
         "GPCRmd_ID": "719"
     },
     "960": {
         "string": "CC1=CC2=C(C=C1)NC3=C2CCNC3CC4=C(C(=C(C=C4)OC)OC)Cl",
         "conftype": "Holo",
-        "PDB_ID": "4IB4",
+        "PDB_ID": "6DS0",
         "GPCRmd_ID": "960"
     },
     "812": {
         "string": "CCC(CO)NC(=O)C1CN(C2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C",
-        "conftype": "Apo",
-        "PDB_ID": "4IB4",
+        "conftype": "Holo",
+        "PDB_ID": "6DRZ",
         "GPCRmd_ID": "812"
     },
     "820": {
         "string": "CC1(C(=O)N2C(C(=O)N3CCCC3C2(O1)O)CC4=CC=CC=C4)NC(=O)C5CN(C6CC7=CNC8=CC=CC(=C78)C6=C5)C",
-        "conftype": "Apo",
-        "PDB_ID": "6DRY",
+        "conftype": "Holo",
+        "PDB_ID": "4NC3",
         "GPCRmd_ID": "820"
     },
     "194": {
         "string": "O=C(C(c1cccs1)(c1cccs1)O)O[C@@H]1C[C@@H]2[C@@H]3[C@H]([C@H](C1)[N+]2(C)C)O3",
         "conftype": "Holo",
-        "PDB_ID": "6DRY",
+        "PDB_ID": "5CXV",
         "GPCRmd_ID": "194"
     },
     "1127": {
         "string": "C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)c4ccccc4)C",
-        "conftype": "Apo",
-        "PDB_ID": "5TVN",
+        "conftype": "Holo",
+        "PDB_ID": "5YC8",
         "GPCRmd_ID": "1127"
     },
     "990": {
         "string": "C1CN2CCC1C(C2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O",
-        "conftype": "Apo",
-        "PDB_ID": "5TVN",
+        "conftype": "Holo",
+        "PDB_ID": "5ZK3",
         "GPCRmd_ID": "990"
     },
     "1126": {
         "string": "C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)c4ccccc4)C",
         "conftype": "Holo",
-        "PDB_ID": "5TVN",
+        "PDB_ID": "5ZKC",
         "GPCRmd_ID": "1126"
     },
     "1096": {
         "string": "C[N+]1(C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4)C",
-        "conftype": "Apo",
-        "PDB_ID": "5TVN",
+        "conftype": "Holo",
+        "PDB_ID": "5ZK8",
         "GPCRmd_ID": "1096"
     },
     "112": {
         "string": "O=C(C(c1ccccc1)(c1ccccc1)O)O[C@H]1C[N@@H+]2CC[C@H]1CC2",
-        "conftype": "Apo",
-        "PDB_ID": "5TVN",
+        "conftype": "Holo",
+        "PDB_ID": "3UON",
         "GPCRmd_ID": "112"
     },
     "69": {
         "string": "C[N+](CC#CCOC1=NOCC1)(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "5TVN",
+        "conftype": "Holo",
+        "PDB_ID": "4MQS",
         "GPCRmd_ID": "69"
     },
     "1029": {
         "string": "CCCN(CCC)CC1CCCCN1CCNC(=O)N2C3=CC=CC=C3C(=O)NC4=C2N=CC=C4",
-        "conftype": "Apo",
-        "PDB_ID": "5TVN",
+        "conftype": "Holo",
+        "PDB_ID": "5ZKB",
         "GPCRmd_ID": "1029"
     },
     "1125": {
         "string": "C[N+]1([C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)Nc4ccc(cc4c5cccs5)F)C",
         "conftype": "Holo",
-        "PDB_ID": "5TVN",
+        "PDB_ID": "5ZHP",
         "GPCRmd_ID": "1125"
     },
     "174": {
         "string": "O=C(C(c1cccs1)(c1cccs1)O)O[C@@H]1C[C@@H]2[C@@H]3[C@H]([C@H](C1)[N+]2(C)C)O3",
-        "conftype": "Apo",
-        "PDB_ID": "6DRX",
+        "conftype": "Holo",
+        "PDB_ID": "4U15",
         "GPCRmd_ID": "174"
     },
     "176": {
         "string": "OC[C@H](c1ccccc1)C(=O)O[C@@H]1C[C@@H]2[C@@H]3[C@H]([C@H](C1)[N+]2(C)C)O3",
         "conftype": "Holo",
-        "PDB_ID": "6DRX",
+        "PDB_ID": "4U16",
         "GPCRmd_ID": "176"
     },
     "173": {
         "string": "O=C(C(c1cccs1)(c1cccs1)O)O[C@@H]1C[C@@H]2[C@@H]3[C@H]([C@H](C1)[N+]2(C)C)O3",
-        "conftype": "Apo",
-        "PDB_ID": "6DS0",
+        "conftype": "Holo",
+        "PDB_ID": "5DSG",
         "GPCRmd_ID": "173"
     },
     "1094": {
         "string": "C[N+]1(C)[C@H]2C[C@H](OC(=O)C(O)(c3cccs3)c3cccs3)C[C@@H]1[C@H]1O[C@@H]21",
         "conftype": "Holo",
-        "PDB_ID": "6DS0",
+        "PDB_ID": "6OL9",
         "GPCRmd_ID": "1094"
     },
     "729": {
         "string": "CC(C)(C)NCC(COC1=CC=CC2=C1CC(=N2)C#N)O",
-        "conftype": "Apo",
-        "PDB_ID": "6DRZ",
+        "conftype": "Holo",
+        "PDB_ID": "5F8U",
         "GPCRmd_ID": "729"
     },
     "58": {
         "string": "N#Cc1[nH]c2c(c1)c(OC[C@H](C[NH2+]C(C)(C)C)O)ccc2",
         "conftype": "Holo",
-        "PDB_ID": "6DRZ",
+        "PDB_ID": "4BVN",
         "GPCRmd_ID": "58"
     },
     "25": {
         "string": "O[C@H](c1ccc(c(c1)O)O)C[NH2+]C(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "4NC3",
+        "conftype": "Holo",
+        "PDB_ID": "2Y03",
         "GPCRmd_ID": "25"
     },
     "26": {
         "string": "O[C@H](c1ccc(c(c1)O)O)C[NH2+]C(C)C",
         "conftype": "Holo",
-        "PDB_ID": "4NC3",
+        "PDB_ID": "2Y03",
         "GPCRmd_ID": "26"
     },
     "786": {
         "string": "CC(C)(C)NCC(COC1=CC=CC2=C1C(=C(N2)C#N)I)O",
-        "conftype": "Apo",
-        "PDB_ID": "5CXV",
+        "conftype": "Holo",
+        "PDB_ID": "2YCZ",
         "GPCRmd_ID": "786"
     },
     "29": {
         "string": "OCc1cc(ccc1O)[C@H](C[NH2+]C(C)(C)C)O",
         "conftype": "Holo",
-        "PDB_ID": "5CXV",
+        "PDB_ID": "2Y04",
         "GPCRmd_ID": "29"
     },
     "55": {
         "string": "OCc1cc(ccc1O)[C@H](C[NH2+]C(C)(C)C)O",
         "conftype": "Holo",
-        "PDB_ID": "5YC8",
+        "PDB_ID": "2Y04",
         "GPCRmd_ID": "55"
     },
     "57": {
         "string": "O[C@H](COc1cccc2c1c1ccccc1[nH]2)C[NH2+]C(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "5ZK3",
+        "conftype": "Holo",
+        "PDB_ID": "2YCW",
         "GPCRmd_ID": "57"
     },
     "140": {
         "string": "N#Cc1ccccc1OC[C@H](C[NH2+]C(Cc1c[nH]c2c1cccc2)(C)C)O",
         "conftype": "Holo",
-        "PDB_ID": "5ZK3",
+        "PDB_ID": "4AMI",
         "GPCRmd_ID": "140"
     },
     "15": {
         "string": "Oc1ccc(cc1)CC[C@H]([NH2+]CCc1ccc(c(c1)O)O)C",
         "conftype": "Holo",
-        "PDB_ID": "5ZKC",
+        "PDB_ID": "2Y00",
         "GPCRmd_ID": "15"
     },
     "16": {
         "string": "Oc1ccc(cc1)CC[C@H]([NH2+]CCc1ccc(c(c1)O)O)C",
-        "conftype": "Apo",
-        "PDB_ID": "5ZKC",
+        "conftype": "Holo",
+        "PDB_ID": "2Y00",
         "GPCRmd_ID": "16"
     },
     "167": {
         "string": "COc1ccccc1OCC[NH2+]C[C@@H](COc1cccc2c1c1ccccc1[nH]2)O",
-        "conftype": "Apo",
-        "PDB_ID": "4MQT",
+        "conftype": "Holo",
+        "PDB_ID": "4AMJ",
         "GPCRmd_ID": "167"
     },
     "195": {
         "string": "COc1ccccc1OCC[NH2+]C[C@@H](COc1cccc2c1c1ccccc1[nH]2)O",
         "conftype": "Holo",
-        "PDB_ID": "5ZK8",
+        "PDB_ID": "4AMJ",
         "GPCRmd_ID": "195"
     },
     "133": {
         "string": "C1[NH2+]CCN(C1)c1cccc2c1cc[nH]2",
-        "conftype": "Apo",
-        "PDB_ID": "5ZK8",
+        "conftype": "Holo",
+        "PDB_ID": "3ZPQ",
         "GPCRmd_ID": "133"
     },
     "134": {
         "string": "C1[NH2+]CCN(C1)c1cccc2c1cc[nH]2",
         "conftype": "Holo",
-        "PDB_ID": "3UON",
+        "PDB_ID": "3ZPQ",
         "GPCRmd_ID": "134"
     },
     "19": {
         "string": "COc1ccc(cc1)C[C@H]([NH2+]C[C@@H](c1ccc(c2c1ccc(=O)[nH]2)O)O)C",
-        "conftype": "Apo",
-        "PDB_ID": "3UON",
+        "conftype": "Holo",
+        "PDB_ID": "2Y02",
         "GPCRmd_ID": "19"
     },
     "20": {
         "string": "COc1ccc(cc1)C[C@H]([NH2+]C[C@@H](c1ccc(c2c1ccc(=O)[nH]2)O)O)C",
-        "conftype": "Apo",
-        "PDB_ID": "4MQS",
+        "conftype": "Holo",
+        "PDB_ID": "2Y02",
         "GPCRmd_ID": "20"
     },
     "149": {
         "string": "N#Cc1[nH]c2c(c1)c(OC[C@H](C[NH2+]C(C)(C)C)O)ccc2C",
         "conftype": "Holo",
-        "PDB_ID": "4MQS",
+        "PDB_ID": "5A8E",
         "GPCRmd_ID": "149"
     },
     "150": {
         "string": "N#Cc1[nH]c2c(c1)c(OC[C@H](C[NH2+]C(C)(C)C)O)ccc2C",
         "conftype": "Holo",
-        "PDB_ID": "5ZKB",
+        "PDB_ID": "5A8E",
         "GPCRmd_ID": "150"
     },
     "963": {
         "string": "CC(C)NCC(COC1=CC=CC2=C1C3=CC=CC=C3N2)O",
-        "conftype": "Apo",
-        "PDB_ID": "5ZKB",
+        "conftype": "Holo",
+        "PDB_ID": "5D6L",
         "GPCRmd_ID": "963"
     },
     "770": {
         "string": "CC(C)NCC(COC1=CC=CC2=C1C3=CC=CC=C3N2)O",
         "conftype": "Holo",
-        "PDB_ID": "5ZHP",
+        "PDB_ID": "5X7D",
         "GPCRmd_ID": "770"
     },
     "830": {
         "string": "CC1=C2CCCC2=C(C=C1)OCC(C(C)NC(C)C)O",
-        "conftype": "Apo",
-        "PDB_ID": "5ZHP",
+        "conftype": "Holo",
+        "PDB_ID": "6PS4",
         "GPCRmd_ID": "830"
     },
     "971": {
         "string": "CC(C)NCC(COC1=CC=CC2=C1C3=CC=CC=C3N2)O",
-        "conftype": "Apo",
-        "PDB_ID": "4U15",
+        "conftype": "Holo",
+        "PDB_ID": "4GBR",
         "GPCRmd_ID": "971"
     },
     "124": {
         "string": "C=CCc1ccccc1OC[C@H](C[NH2+]C(C)C)O",
         "conftype": "Holo",
-        "PDB_ID": "4U15",
+        "PDB_ID": "3NYA",
         "GPCRmd_ID": "124"
     },
     "927": {
         "string": "COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O",
-        "conftype": "Apo",
-        "PDB_ID": "4U16",
+        "conftype": "Holo",
+        "PDB_ID": "6PS3",
         "GPCRmd_ID": "927"
     },
     "115": {
         "string": "Oc1ccc(cc1)CC([NH2+]C[C@@H](c1ccc(c(c1)O)O)O)(C)C",
         "conftype": "Holo",
-        "PDB_ID": "4U16",
+        "PDB_ID": "4LDL",
         "GPCRmd_ID": "115"
     },
     "980": {
         "string": "CC(C)NCC(COC1=CC=CC=C1CC=C)O",
-        "conftype": "Apo",
-        "PDB_ID": "5DSG",
+        "conftype": "Holo",
+        "PDB_ID": "6PRZ",
         "GPCRmd_ID": "980"
     },
     "160": {
         "string": "O[C@H](COc1cccc2c1c1ccccc1[nH]2)C[NH2+]C(C)C",
         "conftype": "Holo",
-        "PDB_ID": "5DSG",
+        "PDB_ID": "5JQH",
         "GPCRmd_ID": "160"
     },
     "764": {
         "string": "CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O",
-        "conftype": "Apo",
-        "PDB_ID": "6KP6",
+        "conftype": "Holo",
+        "PDB_ID": "6PS1",
         "GPCRmd_ID": "764"
     },
     "123": {
         "string": "O[C@@H]([C@@H]([NH2+]C(C)C)C)COc1ccc(c2c1CCC2)C",
         "conftype": "Holo",
-        "PDB_ID": "6OL9",
+        "PDB_ID": "3NY8",
         "GPCRmd_ID": "123"
     },
     "1130": {
         "string": "CC(C)NCC(COC1=CC=CC=C1CC=C)O",
-        "conftype": "Apo",
-        "PDB_ID": "6OL9",
+        "conftype": "Holo",
+        "PDB_ID": "6OBA",
         "GPCRmd_ID": "1130"
     },
     "99": {
         "string": "CCOC(=O)c1oc2c(c1C)c(OC[C@H](C[NH2+]C(C)C)O)ccc2",
-        "conftype": "Apo",
-        "PDB_ID": "5F8U",
+        "conftype": "Holo",
+        "PDB_ID": "3NY9",
         "GPCRmd_ID": "99"
     },
     "121": {
         "string": "O=C1COc2c(N1)c(O)ccc2[C@H](C[NH2+]C(Cc1ccccc1C)(C)C)O",
         "conftype": "Holo",
-        "PDB_ID": "5F8U",
+        "PDB_ID": "4LDE",
         "GPCRmd_ID": "121"
     },
     "952": {
         "string": "CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O",
         "conftype": "Holo",
-        "PDB_ID": "4BVN",
+        "PDB_ID": "6PS6",
         "GPCRmd_ID": "952"
     },
     "83": {
         "string": "O[C@@H](C[NH2+]C(C)(C)C)COc1nsnc1N1CCOCC1",
-        "conftype": "Apo",
-        "PDB_ID": "4BVN",
+        "conftype": "Holo",
+        "PDB_ID": "3D4S",
         "GPCRmd_ID": "83"
     },
     "752": {
         "string": "CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O",
-        "conftype": "Apo",
-        "PDB_ID": "4BVN",
+        "conftype": "Holo",
+        "PDB_ID": "6PS5",
         "GPCRmd_ID": "752"
     },
     "864": {
         "string": "CC(C)NCC(COC1=CC=CC=C1CC=C)O",
-        "conftype": "Apo",
-        "PDB_ID": "2Y03",
+        "conftype": "Holo",
+        "PDB_ID": "6PS2",
         "GPCRmd_ID": "864"
     },
     "685": {
         "string": "CC(C)NCC(COC1=CC=CC2=C1C3=CC=CC=C3N2)O",
-        "conftype": "Apo",
-        "PDB_ID": "2Y03",
+        "conftype": "Holo",
+        "PDB_ID": "6PS0",
         "GPCRmd_ID": "685"
     },
     "117": {
         "string": "C[NH2+]C[C@@H](c1ccc(c(c1)O)O)O",
         "conftype": "Holo",
-        "PDB_ID": "2Y03",
+        "PDB_ID": "4LDO",
         "GPCRmd_ID": "117"
     },
     "839": {
         "string": "C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F",
         "conftype": "Holo",
-        "PDB_ID": "2Y03",
+        "PDB_ID": "6LUQ",
         "GPCRmd_ID": "839"
     },
     "925": {
         "string": "CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F",
-        "conftype": "Apo",
-        "PDB_ID": "2YCZ",
+        "conftype": "Holo",
+        "PDB_ID": "6CM4",
         "GPCRmd_ID": "925"
     },
     "106": {
         "string": "CC[N@@H+]1CCC[C@H]1CNC(=O)c1c(O)c(CC)cc(c1OC)Cl",
         "conftype": "Holo",
-        "PDB_ID": "2YCZ",
+        "PDB_ID": "3PBL",
         "GPCRmd_ID": "106"
     },
     "1006": {
         "string": "CC1C(CCN1CC2=CC=CC=C2)NC(=O)C3=CC(=C(C=C3OC)NC)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "3ZPR",
+        "conftype": "Holo",
+        "PDB_ID": "5WIU",
         "GPCRmd_ID": "1006"
     },
     "832": {
         "string": "CC1C(CCN1CC2=CC=CC=C2)NC(=O)C3=CC(=C(C=C3OC)NC)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "3ZPR",
+        "conftype": "Holo",
+        "PDB_ID": "5WIV",
         "GPCRmd_ID": "832"
     },
     "109": {
         "string": "C[NH+](CC/C=C\\1/c2ccccc2OCc2c1cccc2)C",
-        "conftype": "Apo",
-        "PDB_ID": "3ZPR",
+        "conftype": "Holo",
+        "PDB_ID": "3RZE",
         "GPCRmd_ID": "109"
     },
     "126": {
         "string": "C[NH+](CC/C=C/1\\c2ccccc2OCc2c1cccc2)C",
-        "conftype": "Apo",
-        "PDB_ID": "2Y04",
+        "conftype": "Holo",
+        "PDB_ID": "3RZE",
         "GPCRmd_ID": "126"
     },
     "120": {
         "string": "CCCc1nc(c(n1Cc1ccc(cc1)c1ccccc1c1nnn[nH]1)C(=O)[O-])C(O)(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "2Y04",
+        "conftype": "Holo",
+        "PDB_ID": "4ZUD",
         "GPCRmd_ID": "120"
     },
     "146": {
         "string": "CCCc1nc(c(n1Cc1ccc(cc1)c1ccccc1c1nnn[nH]1)C(=O)[O-])C(O)(C)C",
         "conftype": "Holo",
-        "PDB_ID": "2Y04",
+        "PDB_ID": "4ZUD",
         "GPCRmd_ID": "146"
     },
     "190": {
         "string": "CCCc1nc(c(n1Cc1ccc(cc1)c1ccccc1c1nnn[nH]1)C(=O)[O-])C(O)(C)C",
         "conftype": "Holo",
-        "PDB_ID": "2Y04",
+        "PDB_ID": "4ZUD",
         "GPCRmd_ID": "190"
     },
     "218": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "2YCW",
+        "conftype": "Holo",
+        "PDB_ID": "6DO1",
         "GPCRmd_ID": "218"
     },
     "219": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "2YCW",
+        "PDB_ID": "6DO1",
         "GPCRmd_ID": "219"
     },
     "220": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "2YCW",
+        "conftype": "Holo",
+        "PDB_ID": "6DO1",
         "GPCRmd_ID": "220"
     },
     "940": {
         "string": "CCCC1=NC2=C(C=C(C=C2)N(CC3=CC=CO3)C(=O)C4=CC=CC=C4)C(=O)N1CC5=CC=C(C=C5)C6=CC=CC=C6C7=NNN=N7",
-        "conftype": "Apo",
-        "PDB_ID": "4AMI",
+        "conftype": "Holo",
+        "PDB_ID": "5UNH",
         "GPCRmd_ID": "940"
     },
     "917": {
         "string": "CCC1=NC2=C(C=C(C=C2)N(CC3=CC=CC=C3)C(=O)C4=CC=CS4)C(=O)N1CC5=CC=C(C=C5)C6=CC=CC=C6C7=NNN=N7",
-        "conftype": "Apo",
-        "PDB_ID": "4AMI",
+        "conftype": "Holo",
+        "PDB_ID": "5UNF",
         "GPCRmd_ID": "917"
     },
     "891": {
         "string": "CCC1=NC2=C(C=C(C=C2)N(CC3=CC=CC=C3)C(=O)C4=CC=CS4)C(=O)N1CC5=CC=C(C=C5)C6=CC=CC=C6C7=NNN=N7",
         "conftype": "Holo",
-        "PDB_ID": "4AMI",
+        "PDB_ID": "5UNG",
         "GPCRmd_ID": "891"
     },
     "1062": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "2Y00",
+        "conftype": "Holo",
+        "PDB_ID": "5VBL",
         "GPCRmd_ID": "1062"
     },
     "921": {
         "string": "CCCCN1C(=C(N=C1C2=CC=CC=C2)C3=CC=CC=C3)CN(CC4=CC5=C(C=C4)OCO5)CC6=CC7=C(C=C6)OCO7",
-        "conftype": "Apo",
-        "PDB_ID": "2Y00",
+        "conftype": "Holo",
+        "PDB_ID": "5O9H",
         "GPCRmd_ID": "921"
     },
     "887": {
         "string": "CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=NC=CC=N3)OCCO)OC4=CC=CC=C4OC",
         "conftype": "Holo",
-        "PDB_ID": "2Y00",
+        "PDB_ID": "5XPR",
         "GPCRmd_ID": "887"
     },
     "965": {
         "string": "CC1=C(C(=CC=C1)C)NC(=O)CCOC2=NC(=NC(=C2OC3=CC=CC=C3OC)NS(=O)(=O)C4=CC=C(C=C4)C(C)(C)C)C5=NC=CC=N5",
         "conftype": "Holo",
-        "PDB_ID": "2Y00",
+        "PDB_ID": "5X93",
         "GPCRmd_ID": "965"
     },
     "997": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "4AMJ",
+        "conftype": "Holo",
+        "PDB_ID": "6LRY",
         "GPCRmd_ID": "997"
     },
     "168": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "4AMJ",
+        "conftype": "Holo",
+        "PDB_ID": "5GLH",
         "GPCRmd_ID": "168"
     },
     "1064": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "4AMJ",
+        "PDB_ID": "6IGL",
         "GPCRmd_ID": "1064"
     },
     "788": {
         "string": "CC1=CC(=CC(=C1)C(=O)N(C)C(CC2=CC=C(C=C2)C3=CC=CC=C3)C(=O)NC(CC4=CNC5=CC=CC=C54)C(=O)O)C",
         "conftype": "Holo",
-        "PDB_ID": "4AMJ",
+        "PDB_ID": "6K1Q",
         "GPCRmd_ID": "788"
     },
     "1016": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "3ZPQ",
+        "conftype": "Holo",
+        "PDB_ID": "6IGK",
         "GPCRmd_ID": "1016"
     },
     "1040": {
         "string": "CCC(=O)NCCNC(=O)NC(=NCCCC(C(=O)NCC1=CC=C(C=C1)O)NC(=O)C(C2=CC=CC=C2)C3=CC=CC=C3)N",
-        "conftype": "Apo",
-        "PDB_ID": "3ZPQ",
+        "conftype": "Holo",
+        "PDB_ID": "5ZBQ",
         "GPCRmd_ID": "1040"
     },
     "905": {
         "string": "CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC(=CC=C2)NC(=O)NCCCN3CCC(CC3)C4=CC(=CC=C4)OC)C(=O)OC",
         "conftype": "Holo",
-        "PDB_ID": "3ZPQ",
+        "PDB_ID": "5ZBH",
         "GPCRmd_ID": "905"
     },
     "881": {
         "string": "C(C(=O)O)N",
         "conftype": "Holo",
-        "PDB_ID": "3ZPQ",
+        "PDB_ID": "4BUO",
         "GPCRmd_ID": "881"
     },
     "71": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "2Y02",
+        "PDB_ID": "4GRV",
         "GPCRmd_ID": "71"
     },
     "178": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "2Y02",
+        "PDB_ID": "4XEE",
         "GPCRmd_ID": "178"
     },
     "723": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "2Y02",
+        "conftype": "Holo",
+        "PDB_ID": "5T04",
         "GPCRmd_ID": "723"
     },
     "768": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "2Y02",
+        "conftype": "Holo",
+        "PDB_ID": "4XES",
         "GPCRmd_ID": "768"
     },
     "145": {
         "string": "Oc1ccc2c3c1O[C@@H]1[C@@]43CC[N@@H+]([C@H](C2)[C@]4(O)Cc2c1[nH]c1c2cccc1)CC1CC1",
-        "conftype": "Apo",
-        "PDB_ID": "4GPO",
+        "conftype": "Holo",
+        "PDB_ID": "4N6H",
         "GPCRmd_ID": "145"
     },
     "725": {
         "string": "C1CC1CN2CCC34C5C6=C(CC3(C2CC7=C4C(=C(C=C7)O)O5)O)C8=CC=CC=C8N6",
-        "conftype": "Apo",
-        "PDB_ID": "5A8E",
+        "conftype": "Holo",
+        "PDB_ID": "4EJ4",
         "GPCRmd_ID": "725"
     },
     "60": {
         "string": "Oc1ccc2c(c1)C[NH2+][C@H](C2)C(=O)N[C@@H](C(C)C)C[N@@H+]1CC[C@@]([C@H](C1)C)(C)c1cccc(c1)O",
-        "conftype": "Apo",
-        "PDB_ID": "5A8E",
+        "conftype": "Holo",
+        "PDB_ID": "4DJH",
         "GPCRmd_ID": "60"
     },
     "169": {
         "string": "CO[C@@]12C=C[C@@]34[C@@]5([C@@H]1[NH2+][C@H]([C@]2(C)C3)c1ccccc1)CC[N@@H+]([C@@H]4Cc1c5cc(O)cc1)C",
         "conftype": "Holo",
-        "PDB_ID": "5A8E",
+        "PDB_ID": "5C1M",
         "GPCRmd_ID": "169"
     },
     "70": {
         "string": "O=C([C@H]1CCC[N@H+]1Cc1ccccc1)NCCC[N@@H+]1CC[C@@]2(CC1)OCc1c2cccc1",
         "conftype": "Holo",
-        "PDB_ID": "5A8E",
+        "PDB_ID": "4EA3",
         "GPCRmd_ID": "70"
     },
     "967": {
         "string": "C1CC2(CCN(CC2)C3=NC4=CC=CC=C4O3)N(C1)S(=O)(=O)C5=CC=CC=C5",
-        "conftype": "Apo",
-        "PDB_ID": "5D6L",
+        "conftype": "Holo",
+        "PDB_ID": "6TQ4",
         "GPCRmd_ID": "967"
     },
     "737": {
         "string": "CC1=NC2=C(O1)C=C(C=C2)NC(=O)NC3=C4C(=NC=C3)C=CC=N4",
         "conftype": "Holo",
-        "PDB_ID": "5D6L",
+        "PDB_ID": "6TQ7",
         "GPCRmd_ID": "737"
     },
     "188": {
         "string": "Cc1sc(c(n1)C(=O)N1CCC[C@H]1Cc1nnc(o1)c1ccccc1)c1ccccc1F",
-        "conftype": "Apo",
-        "PDB_ID": "5X7D",
+        "conftype": "Holo",
+        "PDB_ID": "4ZJC",
         "GPCRmd_ID": "188"
     },
     "760": {
         "string": "CC1=CC(=CC(=C1)NC(=O)C2CCCN2S(=O)(=O)C3=CC=C(C=C3)OC)C",
         "conftype": "Holo",
-        "PDB_ID": "5X7D",
+        "PDB_ID": "6TP4",
         "GPCRmd_ID": "760"
     },
     "915": {
         "string": "CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C",
-        "conftype": "Apo",
-        "PDB_ID": "6PS4",
+        "conftype": "Holo",
+        "PDB_ID": "6TOD",
         "GPCRmd_ID": "915"
     },
     "187": {
         "string": "Cc1ccc(c(c1)C(=O)N1CCN(CC[C@H]1C)c1oc2c(n1)cc(cc2)Cl)n1nccn1",
         "conftype": "Holo",
-        "PDB_ID": "6PS4",
+        "PDB_ID": "4ZJ8",
         "GPCRmd_ID": "187"
     },
     "834": {
         "string": "CC1=CC(=C2C=C(C=C(C2=N1)F)F)NC(=O)NC3=CC=C(C=C3)N(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "4GBR",
+        "conftype": "Holo",
+        "PDB_ID": "6TQ9",
         "GPCRmd_ID": "834"
     },
     "860": {
         "string": "CS(=O)(=O)C1=CN=CC(=C1)N2C(=O)N(C3=C(S2(=O)=O)C=CC=N3)CC4=C(C=C(C=C4F)F)F",
         "conftype": "Holo",
-        "PDB_ID": "4GBR",
+        "PDB_ID": "6TQ6",
         "GPCRmd_ID": "860"
     },
     "822": {
         "string": "CC1CCC(N(C1)C(=O)C2=C(C(=CC=C2)F)OC)CNC3=NC=C(C=C3)Br",
         "conftype": "Holo",
-        "PDB_ID": "3NYA",
+        "PDB_ID": "6TOS",
         "GPCRmd_ID": "822"
     },
     "875": {
         "string": "CC1=NC(=NC=C1OCC2(CC2C(=O)NC3=NC=C(C=C3)F)C4=CC(=CC=C4)F)C",
-        "conftype": "Apo",
-        "PDB_ID": "3NYA",
+        "conftype": "Holo",
+        "PDB_ID": "6TOT",
         "GPCRmd_ID": "875"
     },
     "936": {
         "string": "CC1CCN(CCN1C(=O)C2=C(C=CC(=C2)C)N3N=CC=N3)C4=NC5=C(O4)C=CC(=C5)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "6PS3",
+        "conftype": "Holo",
+        "PDB_ID": "6TO7",
         "GPCRmd_ID": "936"
     },
     "870": {
         "string": "CC1CCC(CN1C(=O)C2=C(C=CC(=C2)C)C3=NC=CC=N3)COC4=NC=C(C=C4)F",
         "conftype": "Holo",
-        "PDB_ID": "6PS3",
+        "PDB_ID": "6TP6",
         "GPCRmd_ID": "870"
     },
     "845": {
         "string": "CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C",
-        "conftype": "Apo",
-        "PDB_ID": "2RH1",
+        "conftype": "Holo",
+        "PDB_ID": "5WQC",
         "GPCRmd_ID": "845"
     },
     "745": {
         "string": "CC1CCN(CCN1C(=O)C2=C(C=CC(=C2)C)N3N=CC=N3)C4=NC5=C(O4)C=CC(=C5)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "4LDL",
+        "conftype": "Holo",
+        "PDB_ID": "6TPJ",
         "GPCRmd_ID": "745"
     },
     "903": {
         "string": "COC1=C(N=CC(=C1)N2C(=O)N(C3=C(S2(=O)=O)C=CC=N3)CC4=C(C=C(C=C4F)F)F)OC",
         "conftype": "Holo",
-        "PDB_ID": "4LDL",
+        "PDB_ID": "6TPN",
         "GPCRmd_ID": "903"
     },
     "172": {
         "string": "Cc1ccc(c(c1)C(=O)N1CCN(CC[C@H]1C)c1oc2c(n1)cc(cc2)Cl)n1nccn1",
-        "conftype": "Apo",
-        "PDB_ID": "6PRZ",
+        "conftype": "Holo",
+        "PDB_ID": "4S0V",
         "GPCRmd_ID": "172"
     },
     "866": {
         "string": "CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C",
         "conftype": "Holo",
-        "PDB_ID": "6PRZ",
+        "PDB_ID": "6TPG",
         "GPCRmd_ID": "866"
     },
     "727": {
         "string": "CCN(CC1=CN=CC=C1)C(=O)CN(C2=CN=C(C=C2)OC)S(=O)(=O)C3=CC=CC=C3C",
-        "conftype": "Apo",
-        "PDB_ID": "5JQH",
+        "conftype": "Holo",
+        "PDB_ID": "5WS3",
         "GPCRmd_ID": "727"
     },
     "129": {
         "string": "CCOC(=O)N[C@@H]1CC[C@@H]2[C@@H](C1)C[C@@H]1[C@H]([C@H]2/C=C/c2ccc(cn2)c2cccc(c2)F)[C@H](OC1=O)C",
         "conftype": "Holo",
-        "PDB_ID": "5JQH",
+        "PDB_ID": "3VW7",
         "GPCRmd_ID": "129"
     },
     "130": {
         "string": "CCOC(=O)N[C@@H]1CC[C@@H]2[C@@H](C1)C[C@@H]1[C@H]([C@H]2/C=C/c2ccc(cn2)c2cccc(c2)F)[C@H](OC1=O)C",
-        "conftype": "Apo",
-        "PDB_ID": "6PS1",
+        "conftype": "Holo",
+        "PDB_ID": "3VW7",
         "GPCRmd_ID": "130"
     },
     "1019": {
         "string": "CC(C1CCCCC1)N2C3=C(C=C(C=C3)C(=O)NC4=CC=C(C=C4)C#N)N=C2C5=CC6=C(C=C5Br)OCO6",
         "conftype": "Holo",
-        "PDB_ID": "6PS1",
+        "PDB_ID": "5NDZ",
         "GPCRmd_ID": "1019"
     },
     "978": {
         "string": "CCCC1=C(C=CC(=C1)F)C(C2=NC=CN2)O",
         "conftype": "Holo",
-        "PDB_ID": "3NY8",
+        "PDB_ID": "5NDD",
         "GPCRmd_ID": "978"
     },
     "911": {
         "string": "CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NC(=O)NN3)C4=CC=C(C=C4)F",
-        "conftype": "Apo",
-        "PDB_ID": "3NY8",
+        "conftype": "Holo",
+        "PDB_ID": "6J20",
         "GPCRmd_ID": "911"
     },
     "851": {
         "string": "COC1=CC=CC=C1CNC2CCCNC2C3=CC=CC=C3",
         "conftype": "Holo",
-        "PDB_ID": "6OBA",
+        "PDB_ID": "6HLL",
         "GPCRmd_ID": "851"
     },
     "782": {
         "string": "CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NC(=O)NN3)C4=CC=C(C=C4)F",
-        "conftype": "Apo",
-        "PDB_ID": "6OBA",
+        "conftype": "Holo",
+        "PDB_ID": "6J21",
         "GPCRmd_ID": "782"
     },
     "731": {
         "string": "CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NC(=O)NN3)C4=CC=C(C=C4)F",
-        "conftype": "Apo",
-        "PDB_ID": "3PDS",
+        "conftype": "Holo",
+        "PDB_ID": "6HLO",
         "GPCRmd_ID": "731"
     },
     "856": {
         "string": "CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NNN=C3CN(C)C)C4=CC=C(C=C4)F",
-        "conftype": "Apo",
-        "PDB_ID": "3NY9",
+        "conftype": "Holo",
+        "PDB_ID": "6E59",
         "GPCRmd_ID": "856"
     },
     "938": {
         "string": "CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C",
         "conftype": "Holo",
-        "PDB_ID": "3NY9",
+        "PDB_ID": "6HLP",
         "GPCRmd_ID": "938"
     },
     "735": {
         "string": "CCCC1CC(CCC1N2CCC(C2=O)NC3=NC=NC4=C3C=C(C=C4)C(F)(F)F)N(C)C(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "4LDE",
+        "conftype": "Holo",
+        "PDB_ID": "5T1A",
         "GPCRmd_ID": "735"
     },
     "709": {
         "string": "CC(C)C1(CCC(C1)[NH2+]C2CCOCC2OC)C(=O)N3CCC4=C(C3)C=C(C=N4)C(F)(F)F",
         "conftype": "Holo",
-        "PDB_ID": "4LDE",
+        "PDB_ID": "6GPS",
         "GPCRmd_ID": "709"
     },
     "800": {
         "string": "CC(C)C1(CCC(C1)[NH2+]C2CCOCC2OC)C(=O)N3CCC4=C(C3)C=C(C=N4)C(F)(F)F",
-        "conftype": "Apo",
-        "PDB_ID": "6PS6",
+        "conftype": "Holo",
+        "PDB_ID": "6GPX",
         "GPCRmd_ID": "800"
     },
     "1124": {
         "string": "Cc1nnc(n1C2C[C@H]3CC[C@@H](C2)N3CC[C@@H](c4ccsc4)NC(=O)C5CCC(CC5)(F)F)C(C)C",
         "conftype": "Holo",
-        "PDB_ID": "6PS6",
+        "PDB_ID": "6AKY",
         "GPCRmd_ID": "1124"
     },
     "1095": {
         "string": "Cc1nnc(n1C2C[C@H]3CC[C@@H](C2)N3CC[C@@H](c4cccs4)NC(=O)C5CCCC5)C(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "3D4S",
+        "conftype": "Holo",
+        "PDB_ID": "6AKX",
         "GPCRmd_ID": "1095"
     },
     "67": {
         "string": "O=C(C1CCC(CC1)(F)F)N[C@H](c1ccccc1)CC[N@@H+]1[C@@H]2CC[C@H]1C[C@@H](C2)n1c(C)nnc1C(C)C",
         "conftype": "Holo",
-        "PDB_ID": "3D4S",
+        "PDB_ID": "4MBS",
         "GPCRmd_ID": "67"
     },
     "119": {
         "string": "O=C(C1CCC(CC1)(F)F)N[C@H](c1ccccc1)CC[N@@H+]1[C@@H]2CC[C@H]1C[C@@H](C2)n1c(C)nnc1C(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "6PS5",
+        "conftype": "Holo",
+        "PDB_ID": "4MBS",
         "GPCRmd_ID": "119"
     },
     "899": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "6PS5",
+        "PDB_ID": "5UIW",
         "GPCRmd_ID": "899"
     },
     "86": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "6PS2",
+        "conftype": "Holo",
+        "PDB_ID": "4RWS",
         "GPCRmd_ID": "86"
     },
     "89": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "6PS2",
+        "PDB_ID": "4RWS",
         "GPCRmd_ID": "89"
     },
     "102": {
         "string": "CC1(C)[NH+]=c2n(C1)c(cs2)CS/C(=[NH+]\\C1CCCCC1)/NC1CCCCC1",
-        "conftype": "Apo",
-        "PDB_ID": "6PS0",
+        "conftype": "Holo",
+        "PDB_ID": "3ODU",
         "GPCRmd_ID": "102"
     },
     "103": {
         "string": "CC1(C)[NH+]=c2n(C1)c(cs2)CS/C(=[NH+]\\C1CCCCC1)/NC1CCCCC1",
         "conftype": "Holo",
-        "PDB_ID": "6PS0",
+        "PDB_ID": "3ODU",
         "GPCRmd_ID": "103"
     },
     "929": {
         "string": "CC1=CC(=CC(=C1C2=CC=CC(=C2)COC3=NC=C4C5C(C5C(=O)O)CC4=C3)C)OCCCS(=O)(=O)C",
-        "conftype": "Apo",
-        "PDB_ID": "4QKX",
+        "conftype": "Holo",
+        "PDB_ID": "5TZY",
         "GPCRmd_ID": "929"
     },
     "76": {
         "string": "[O-]C(=O)C[C@@H]1COc2c1ccc(c2)OCc1cccc(c1)c1c(C)cc(cc1C)OCCCS(=O)(=O)C",
-        "conftype": "Apo",
-        "PDB_ID": "4LDO",
+        "conftype": "Holo",
+        "PDB_ID": "4PHU",
         "GPCRmd_ID": "76"
     },
     "766": {
         "string": "CC1=NC(=CC=C1)N(CC(C)(C)C)C(=O)C2=C(C=C(C=C2)OC)N3CCC(CC3)C4=CC5=C(O4)C=C(C=C5)C(CC(=O)O)C6CC6",
         "conftype": "Holo",
-        "PDB_ID": "4LDO",
+        "PDB_ID": "5KW2",
         "GPCRmd_ID": "766"
     },
     "794": {
         "string": "CC1=CC(=CC(=C1C2=CC=CC(=C2)COC3=NC=C4C5C(C5C(=O)O)CC4=C3)C)OCCCS(=O)(=O)C",
-        "conftype": "Apo",
-        "PDB_ID": "6LUQ",
+        "conftype": "Holo",
+        "PDB_ID": "5TZR",
         "GPCRmd_ID": "794"
     },
     "958": {
         "string": "CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCC3=CC=CC(=C3)COC4=CC=C(C=C4)C(=N)N",
         "conftype": "Holo",
-        "PDB_ID": "6LUQ",
+        "PDB_ID": "5X33",
         "GPCRmd_ID": "958"
     },
     "862": {
         "string": "CC1=CC=CC=C1S(=O)(=O)NC(=O)C2=CC(=C(C=C2)CC3=CN(C4=C3C=C(C=C4)NC(=O)OC5CCCC5)C)OC",
-        "conftype": "Apo",
-        "PDB_ID": "6CM4",
+        "conftype": "Holo",
+        "PDB_ID": "6RZ5",
         "GPCRmd_ID": "862"
     },
     "739": {
         "string": "C1=CC=C(C=C1)CCCCOC2=CC=C(C=C2)C(=O)NC3=CC=CC4=C3OC(=CC4=O)C5=NNN=N5",
         "conftype": "Holo",
-        "PDB_ID": "6CM4",
+        "PDB_ID": "6RZ4",
         "GPCRmd_ID": "739"
     },
     "691": {
         "string": "CC1=C(C=C(C=C1)F)CCCCOC2=CC=C(C=C2)C(=O)NC3=C4C(=CC=C3)N(CC(O4)C(=O)O)CCCC(=O)O",
-        "conftype": "Apo",
-        "PDB_ID": "3PBL",
+        "conftype": "Holo",
+        "PDB_ID": "6RZ9",
         "GPCRmd_ID": "691"
     },
     "826": {
         "string": "C1C(OC2=C(C=CC=C2N1CCCC(=O)O)NC(=O)C3=CC=C(C=C3)OCCCCC4=C(C=CC(=C4)F)Cl)C(=O)O",
         "conftype": "Holo",
-        "PDB_ID": "3PBL",
+        "PDB_ID": "6RZ6",
         "GPCRmd_ID": "826"
     },
     "790": {
         "string": "C1C(OC2=C(C=CC=C2N1CCCC(=O)O)NC(=O)C3=C(C=C(C=C3)OCCCCOC4=C(C(=CC=C4)F)F)F)C(=O)O",
-        "conftype": "Apo",
-        "PDB_ID": "5WIU",
+        "conftype": "Holo",
+        "PDB_ID": "6RZ8",
         "GPCRmd_ID": "790"
     },
     "806": {
         "string": "C1C(OC2=C(C=CC=C2N1CCCC(=O)O)NC(=O)C3=CC=C(C=C3)OCCCCC4=C(C=CC(=C4)F)Cl)C(=O)O",
         "conftype": "Holo",
-        "PDB_ID": "5WIU",
+        "PDB_ID": "6RZ7",
         "GPCRmd_ID": "806"
     },
     "185": {
         "string": "COc1cc(cc(c1C)OC)[C@H]([C@@H](OC1Cc2c(C1)cccc2)COc1ccc(cc1)C1(CC1)C(=O)[O-])O",
-        "conftype": "Apo",
-        "PDB_ID": "5WIV",
+        "conftype": "Holo",
+        "PDB_ID": "4Z36",
         "GPCRmd_ID": "185"
     },
     "183": {
         "string": "COC(=O)c1cn(cc1CC(=O)[O-])C[C@@H]([C@@H](c1cc(OC)c(c(c1)OC)C)O)CC1Cc2c(C1)cccc2",
         "conftype": "Holo",
-        "PDB_ID": "5WIV",
+        "PDB_ID": "4Z34",
         "GPCRmd_ID": "183"
     },
     "127": {
         "string": "CCCCCCc1cccc(c1)NC(=O)[C@@H](CC[P@@](=O)(O)[O-])[NH3+]",
-        "conftype": "Apo",
-        "PDB_ID": "3RZE",
+        "conftype": "Holo",
+        "PDB_ID": "3V2Y",
         "GPCRmd_ID": "127"
     },
     "22": {
         "string": "N#Cc1cccc(c1)[C@@H]([C@@H](NC(=O)C(Oc1ccc(cn1)C(F)(F)F)(C)C)C)Cc1ccc(cc1)Cl",
         "conftype": "Holo",
-        "PDB_ID": "3RZE",
+        "PDB_ID": "5U09",
         "GPCRmd_ID": "22"
     },
     "164": {
         "string": "N#Cc1cccc(c1)[C@@H]([C@@H](NC(=O)C(Oc1ccc(cn1)C(F)(F)F)(C)C)C)Cc1ccc(cc1)Cl",
         "conftype": "Holo",
-        "PDB_ID": "3RZE",
+        "PDB_ID": "5U09",
         "GPCRmd_ID": "164"
     },
     "897": {
         "string": "CC1=CCC2C(C1)C3=C(C=C(C=C3OC2(C)C)C(C)(C)CCCCCCBr)O",
         "conftype": "Holo",
-        "PDB_ID": "4ZUD",
+        "PDB_ID": "5XRA",
         "GPCRmd_ID": "897"
     },
     "1002": {
         "string": "CCCCCCC(C)(C)C1=CC(=C(C=C1)C2CC(CCC2CCCO)O)O",
         "conftype": "Holo",
-        "PDB_ID": "4ZUD",
+        "PDB_ID": "6KQI",
         "GPCRmd_ID": "1002"
     },
     "956": {
         "string": "CC1(C2CCC(CC2C3=C(C=C(C=C3O1)C(C)(C)CCCCCCN=C=S)O)CO)C",
-        "conftype": "Apo",
-        "PDB_ID": "4ZUD",
+        "conftype": "Holo",
+        "PDB_ID": "6KPC",
         "GPCRmd_ID": "956"
     },
     "695": {
         "string": "CC1=NC2=C(N1CC3=C(C=C(C=C3)C(=O)C4=CN(C5=CC=CC(=C54)C#C)C(=O)N(C)C)F)C=CN=C2",
         "conftype": "Holo",
-        "PDB_ID": "4ZUD",
+        "PDB_ID": "5ZKQ",
         "GPCRmd_ID": "695"
     },
     "1025": {
         "string": "CC(C)C1=CC(=C(C(=C1)C(C)C)C2=CSC(=N2)N(CCN(C)C)CC3=CN=CC=C3)C(C)C",
-        "conftype": "Apo",
-        "PDB_ID": "4YAY",
+        "conftype": "Holo",
+        "PDB_ID": "5ZKP",
         "GPCRmd_ID": "1025"
     },
     "985": {
         "string": "CC1=C(C2=C(N1CC3=C(C=C(C=C3)S(=O)(=O)C)C(F)(F)F)N=CC=C2)CC(=O)O",
         "conftype": "Holo",
-        "PDB_ID": "6DO1",
+        "PDB_ID": "6D26",
         "GPCRmd_ID": "985"
     },
     "885": {
         "string": "CN(C1CCC2=C(C1)C3=CC=CC=C3N2CC(=O)O)S(=O)(=O)C4=CC=C(C=C4)F",
         "conftype": "Holo",
-        "PDB_ID": "6DO1",
+        "PDB_ID": "6D27",
         "GPCRmd_ID": "885"
     },
     "1027": {
         "string": "CCCCCC(C=CC1C(CC(=O)C1CC=CCCCC(=O)O)O)O",
         "conftype": "Holo",
-        "PDB_ID": "6DO1",
+        "PDB_ID": "6AK3",
         "GPCRmd_ID": "1027"
     },
     "749": {
         "string": "CCCCC(C)(CC=CC1C(CC(=O)C1CCCCCCC(=O)O)O)O",
-        "conftype": "Apo",
-        "PDB_ID": "5UNH",
+        "conftype": "Holo",
+        "PDB_ID": "6M9T",
         "GPCRmd_ID": "749"
     },
     "1008": {
         "string": "CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)C3=CC=CC=C3",
         "conftype": "Holo",
-        "PDB_ID": "5UNH",
+        "PDB_ID": "6PS8",
         "GPCRmd_ID": "1008"
     },
     "713": {
         "string": "CCC(=O)NCCC1CCC2=C1C3=C(C=C2)OCC3",
-        "conftype": "Apo",
-        "PDB_ID": "5UNF",
+        "conftype": "Holo",
+        "PDB_ID": "6ME2",
         "GPCRmd_ID": "713"
     },
     "693": {
         "string": "CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)C3=CC=CC=C3",
         "conftype": "Holo",
-        "PDB_ID": "5UNF",
+        "PDB_ID": "6ME3",
         "GPCRmd_ID": "693"
     },
     "804": {
         "string": "CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)I",
-        "conftype": "Apo",
-        "PDB_ID": "5UNG",
+        "conftype": "Holo",
+        "PDB_ID": "6ME4",
         "GPCRmd_ID": "804"
     },
     "808": {
         "string": "CC(=O)NCCC1=CC=CC2=C1C=C(C=C2)OC",
         "conftype": "Holo",
-        "PDB_ID": "5UNG",
+        "PDB_ID": "6ME5",
         "GPCRmd_ID": "808"
     },
     "796": {
         "string": "CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)C3=CC=CC=C3",
-        "conftype": "Apo",
-        "PDB_ID": "5VBL",
+        "conftype": "Holo",
+        "PDB_ID": "6ME6",
         "GPCRmd_ID": "796"
     },
     "818": {
         "string": "CCC(=O)NCCC1CCC2=C1C3=C(C=C2)OCC3",
         "conftype": "Holo",
-        "PDB_ID": "5VBL",
+        "PDB_ID": "6ME9",
         "GPCRmd_ID": "818"
     },
     "946": {
         "string": "CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)C3=CC=CC=C3",
-        "conftype": "Apo",
-        "PDB_ID": "5O9H",
+        "conftype": "Holo",
+        "PDB_ID": "6ME8",
         "GPCRmd_ID": "946"
     },
     "994": {
         "string": "CC(=O)NCCC1=C(NC2=C1C=C(C=C2)OC)C3=CC=CC=C3",
         "conftype": "Holo",
-        "PDB_ID": "5O9H",
+        "PDB_ID": "6ME7",
         "GPCRmd_ID": "994"
     },
     "1097": {
         "string": "CCCCN1C(=O)C2=C(N=C(N2)C34CC5CC(C3)CC4C5)N(C1=O)CCCO",
-        "conftype": "Apo",
-        "PDB_ID": "5XPR",
+        "conftype": "Holo",
+        "PDB_ID": "5N2S",
         "GPCRmd_ID": "1097"
     },
     "715": {
         "string": "C1=CC=C(C=C1)C2=C(N=NC(=N2)N)C3=CC(=C(C=C3)O)Cl",
         "conftype": "Holo",
-        "PDB_ID": "5XPR",
+        "PDB_ID": "5OM4",
         "GPCRmd_ID": "715"
     },
     "931": {
         "string": "CC1=C(C=CC(=C1)CN2C3=NC(=NC(=C3N=N2)C4=CC=CO4)N)N",
-        "conftype": "Apo",
-        "PDB_ID": "5X93",
+        "conftype": "Holo",
+        "PDB_ID": "5OLH",
         "GPCRmd_ID": "931"
     },
     "36": {
         "string": "CCCn1c2nc([nH]c2c(=O)n(c1=O)CCC)c1ccc(cc1)OCC(=O)NCC[NH3+]",
         "conftype": "Holo",
-        "PDB_ID": "5X93",
+        "PDB_ID": "3REY",
         "GPCRmd_ID": "36"
     },
     "44": {
         "string": "Oc1ccc(cc1)CCNc1nc(N)n2c(n1)nc(n2)c1ccco1",
-        "conftype": "Apo",
-        "PDB_ID": "6LRY",
+        "conftype": "Holo",
+        "PDB_ID": "4EIY",
         "GPCRmd_ID": "44"
     },
     "1012": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
         "conftype": "Holo",
-        "PDB_ID": "6LRY",
+        "PDB_ID": "5VRA",
         "GPCRmd_ID": "1012"
     },
     "46": {
         "string": "CCNC(=O)[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1nc(NCCc1ccc(cc1)CCC(=O)[O-])nc2N",
-        "conftype": "Apo",
-        "PDB_ID": "5GLI",
+        "conftype": "Holo",
+        "PDB_ID": "4UHR",
         "GPCRmd_ID": "46"
     },
     "42": {
         "string": "Nc1nnc(c(n1)c1ccccc1)c1ccc(c(c1)Cl)O",
         "conftype": "Holo",
-        "PDB_ID": "5GLH",
+        "PDB_ID": "3UZC",
         "GPCRmd_ID": "42"
     },
     "1021": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "5GLH",
+        "conftype": "Holo",
+        "PDB_ID": "5K2A",
         "GPCRmd_ID": "1021"
     },
     "814": {
         "string": "C1=CC=C(C=C1)C2=C(N=NC(=N2)N)C3=CC(=C(C=C3)O)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "6IGL",
+        "conftype": "Holo",
+        "PDB_ID": "5OLZ",
         "GPCRmd_ID": "814"
     },
     "754": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
         "conftype": "Holo",
-        "PDB_ID": "6IGL",
+        "PDB_ID": "6AQF",
         "GPCRmd_ID": "754"
     },
     "828": {
         "string": "CCCC1=CC2=C(C=C1OC(=O)C)OC(=C(C2=O)C3=NC(=CS3)C)C",
-        "conftype": "Apo",
-        "PDB_ID": "6K1Q",
+        "conftype": "Holo",
+        "PDB_ID": "6ZDV",
         "GPCRmd_ID": "828"
     },
     "1098": {
         "string": "CN1C2=C(C(=O)N(C1=O)C)NC=N2",
         "conftype": "Holo",
-        "PDB_ID": "6K1Q",
+        "PDB_ID": "5MZJ",
         "GPCRmd_ID": "1098"
     },
     "1017": {
         "string": "CC(C)(C)CC(=O)NC1=C(C=C(C=C1F)C(=O)NC2=NC=CS2)F",
-        "conftype": "Apo",
-        "PDB_ID": "6IGK",
+        "conftype": "Holo",
+        "PDB_ID": "5OLV",
         "GPCRmd_ID": "1017"
     },
     "687": {
         "string": "CCNC(=O)C1C(C(C(O1)N2C=NC3=C(N=C(N=C32)C(=O)NCCNC(=O)NC4CCN(CC4)C5=CC=CC=N5)NCC(C6=CC=CC=C6)C7=CC=CC=C7)O)O",
         "conftype": "Holo",
-        "PDB_ID": "6IGK",
+        "PDB_ID": "5WF5",
         "GPCRmd_ID": "687"
     },
     "1014": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
         "conftype": "Holo",
-        "PDB_ID": "5ZBQ",
+        "PDB_ID": "6PS7",
         "GPCRmd_ID": "1014"
     },
     "1010": {
         "string": "CCNC(=O)C1C(C(C(O1)N2C=NC3=C(N=C(N=C32)C(=O)NCCNC(=O)NC4CCN(CC4)C5=CC=CC=N5)NCC(C6=CC=CC=C6)C7=CC=CC=C7)O)O",
-        "conftype": "Apo",
-        "PDB_ID": "5ZBQ",
+        "conftype": "Holo",
+        "PDB_ID": "5WF6",
         "GPCRmd_ID": "1010"
     },
     "33": {
         "string": "CCNC(=O)[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1ncnc2N",
-        "conftype": "Apo",
-        "PDB_ID": "5ZBH",
+        "conftype": "Holo",
+        "PDB_ID": "2YDV",
         "GPCRmd_ID": "33"
     },
     "976": {
         "string": "CC1(CCN(CC1)C(=O)NC2=NC3=C(C=CC(=C3S2)N4CCOCC4)OC)O",
         "conftype": "Holo",
-        "PDB_ID": "5ZBH",
+        "PDB_ID": "5OLO",
         "GPCRmd_ID": "976"
     },
     "31": {
         "string": "OC[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1ncnc2N",
-        "conftype": "Apo",
-        "PDB_ID": "4BUO",
+        "conftype": "Holo",
+        "PDB_ID": "2YDO",
         "GPCRmd_ID": "31"
     },
     "988": {
         "string": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C",
         "conftype": "Holo",
-        "PDB_ID": "4BUO",
+        "PDB_ID": "5MZP",
         "GPCRmd_ID": "988"
     },
     "854": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "4GRV",
+        "conftype": "Holo",
+        "PDB_ID": "5K2B",
         "GPCRmd_ID": "854"
     },
     "48": {
         "string": "CCNC(=O)[C@H]1O[C@H]([C@@H]([C@@H]1O)O)n1cnc2c1ncnc2N",
         "conftype": "Holo",
-        "PDB_ID": "4GRV",
+        "PDB_ID": "5G53",
         "GPCRmd_ID": "48"
     },
     "1001": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "4XEE",
+        "conftype": "Holo",
+        "PDB_ID": "6JZH",
         "GPCRmd_ID": "1001"
     },
     "784": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
         "conftype": "Holo",
-        "PDB_ID": "4XEE",
+        "PDB_ID": "5NM2",
         "GPCRmd_ID": "784"
     },
     "836": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "5T04",
+        "conftype": "Holo",
+        "PDB_ID": "5UVI",
         "GPCRmd_ID": "836"
     },
     "982": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
         "conftype": "Holo",
-        "PDB_ID": "5T04",
+        "PDB_ID": "6MH8",
         "GPCRmd_ID": "982"
     },
     "703": {
         "string": "CC1=CC(=CC(=N1)Cl)C2=C(N=C(N=N2)N)C3=CC=C(C=C3)F",
-        "conftype": "Apo",
-        "PDB_ID": "4XES",
+        "conftype": "Holo",
+        "PDB_ID": "6GT3",
         "GPCRmd_ID": "703"
     },
     "1123": {
         "string": "CCCCN1C(=O)c2c(nc([nH]2)C34C[C@@H]5C[C@H](C3)CC4C5)N(C1=O)/C=C/CO",
         "conftype": "Holo",
-        "PDB_ID": "4XES",
+        "PDB_ID": "5N2R",
         "GPCRmd_ID": "1123"
     },
     "38": {
         "string": "Cn1cnc2c1c(=O)n(C)c(=O)n2C",
-        "conftype": "Apo",
-        "PDB_ID": "4RWD",
+        "conftype": "Holo",
+        "PDB_ID": "3RFM",
         "GPCRmd_ID": "38"
     },
     "999": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
         "conftype": "Holo",
-        "PDB_ID": "4N6H",
+        "PDB_ID": "5K2C",
         "GPCRmd_ID": "999"
     },
     "923": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "4N6H",
+        "conftype": "Holo",
+        "PDB_ID": "5OLG",
         "GPCRmd_ID": "923"
     },
     "950": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "4EJ4",
+        "conftype": "Holo",
+        "PDB_ID": "5K2D",
         "GPCRmd_ID": "950"
     },
     "774": {
         "string": "CC1=CC(=CC=C1)N2N=C(C(=N2)N)C(=NCC3=CC=CC=C3OC)N",
         "conftype": "Holo",
-        "PDB_ID": "4EJ4",
+        "PDB_ID": "5UIG",
         "GPCRmd_ID": "774"
     },
     "954": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "4DJH",
+        "conftype": "Holo",
+        "PDB_ID": "5NM4",
         "GPCRmd_ID": "954"
     },
     "40": {
         "string": "Nc1nnc(c(n1)c1ccccc1)c1cc(C)nc(c1)C",
         "conftype": "Holo",
-        "PDB_ID": "4DJH",
+        "PDB_ID": "3UZA",
         "GPCRmd_ID": "40"
     },
     "992": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
         "conftype": "Holo",
-        "PDB_ID": "5C1M",
+        "PDB_ID": "5NLX",
         "GPCRmd_ID": "992"
     },
     "858": {
         "string": "C1=CC=C(C=C1)C2=C(N=NC(=N2)N)C3=CC(=C(C=C3)O)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "5C1M",
+        "conftype": "Holo",
+        "PDB_ID": "5OM1",
         "GPCRmd_ID": "858"
     },
     "697": {
         "string": "C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N",
-        "conftype": "Apo",
-        "PDB_ID": "4DKL",
+        "conftype": "Holo",
+        "PDB_ID": "5JTB",
         "GPCRmd_ID": "697"
     },
     "1033": {
         "string": "CCCC1=CC2=C(C=C1OC(=O)C)OC=C(C2=O)C3=NC(=CS3)C",
-        "conftype": "Apo",
-        "PDB_ID": "4EA3",
+        "conftype": "Holo",
+        "PDB_ID": "6ZDR",
         "GPCRmd_ID": "1033"
     },
     "50": {
         "string": "Oc1ccc(cc1)CCNc1nc(N)n2c(n1)nc(n2)c1ccco1",
         "conftype": "Holo",
-        "PDB_ID": "4EA3",
+        "PDB_ID": "5IU4",
         "GPCRmd_ID": "50"
     },
     "181": {
         "string": "CNc1nc(I)nc2c1ncn2[C@H]1C[C@@H]([C@]2([C@@H]1C2)COP(=O)([O-])[O-])OP(=O)([O-])[O-]",
-        "conftype": "Apo",
-        "PDB_ID": "5DHH",
+        "conftype": "Holo",
+        "PDB_ID": "4XNW",
         "GPCRmd_ID": "181"
     },
     "182": {
         "string": "CNc1nc(I)nc2c1ncn2[C@H]1C[C@@H]([C@]2([C@@H]1C2)COP(=O)([O-])[O-])OP(=O)([O-])[O-]",
-        "conftype": "Apo",
-        "PDB_ID": "5DHG",
+        "conftype": "Holo",
+        "PDB_ID": "4XNW",
         "GPCRmd_ID": "182"
     },
     "207": {
         "string": "O=C(Nc1cccnc1Oc1ccccc1C(C)(C)C)Nc1ccc(cc1)OC(F)(F)F",
-        "conftype": "Apo",
-        "PDB_ID": "6TQ4",
+        "conftype": "Holo",
+        "PDB_ID": "4XNV",
         "GPCRmd_ID": "207"
     },
     "78": {
         "string": "CSc1nc(N)c2c(n1)n(cn2)[C@@H]1O[C@@H]([C@H]([C@H]1O)O)CO[P@@](=O)(OP(=O)([O-])[O-])[O-]",
         "conftype": "Holo",
-        "PDB_ID": "6TQ4",
+        "PDB_ID": "4PXZ",
         "GPCRmd_ID": "78"
     },
     "717": {
         "string": "CCOC(=O)C1=C(N=C(C(=C1)C#N)N2CCC(CC2)C(=O)NS(=O)(=O)CC3=CC=CC=C3)C",
-        "conftype": "Apo",
-        "PDB_ID": "6TQ7",
+        "conftype": "Holo",
+        "PDB_ID": "4NTJ",
         "GPCRmd_ID": "717"
     },
     "80": {
         "string": "CSc1nc(N)c2c(n1)n(cn2)[C@@H]1O[C@@H]([C@H]([C@H]1O)O)CO[P@@](=O)(O[P@](=O)(OP(=O)([O-])[O-])[O-])[O-]",
         "conftype": "Holo",
-        "PDB_ID": "6TQ7",
+        "PDB_ID": "4PY0",
         "GPCRmd_ID": "80"
     },
     "810": {
         "string": "CC1=C(C(CCC1)(C)C)C=CC(=C2CCC(=CC=O)C=C2)C",
         "conftype": "Holo",
-        "PDB_ID": "4ZJC",
+        "PDB_ID": "5TE5",
         "GPCRmd_ID": "810"
     },
     "707": {
         "string": "CC(C)C(C1=CC=C(C=C1)Cl)C(=O)N2CCC3(CC2)OC4=C(O3)C=C(C=C4)CCC(=O)O",
-        "conftype": "Apo",
-        "PDB_ID": "6TP4",
+        "conftype": "Holo",
+        "PDB_ID": "6FKC",
         "GPCRmd_ID": "707"
     },
     "895": {
         "string": "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCNCCCCC(C(=O)O)N)C)C",
         "conftype": "Holo",
-        "PDB_ID": "6TP4",
+        "PDB_ID": "1GZM",
         "GPCRmd_ID": "895"
     },
     "913": {
         "string": "CC(C(C1=CC=C(C=C1)Cl)C(=O)N2CCC3(CC2)OC4=CC=CC=C4O3)O",
-        "conftype": "Apo",
-        "PDB_ID": "6TOD",
+        "conftype": "Holo",
+        "PDB_ID": "6FK7",
         "GPCRmd_ID": "913"
     },
     "873": {
         "string": "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCNCCCCC(C(=O)O)N)C)C",
         "conftype": "Holo",
-        "PDB_ID": "6TOD",
+        "PDB_ID": "5DYS",
         "GPCRmd_ID": "873"
     },
     "689": {
         "string": "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCNCCCCC(C(=O)O)N)C)C",
-        "conftype": "Apo",
-        "PDB_ID": "6TP3",
+        "conftype": "Holo",
+        "PDB_ID": "2Z73",
         "GPCRmd_ID": "689"
     },
     "944": {
         "string": "CC(C)C(C1=CC=C(C=C1)Cl)C(=O)N2CCC3(CC2)OC4=CC=CC=C4O3",
-        "conftype": "Apo",
-        "PDB_ID": "4ZJ8",
+        "conftype": "Holo",
+        "PDB_ID": "6FK6",
         "GPCRmd_ID": "944"
     },
     "778": {
         "string": "CC(C)C(C1=CC=CC=C1)C(=O)N2CCC3(CC2)OC4=CC=CC=C4O3",
         "conftype": "Holo",
-        "PDB_ID": "4ZJ8",
+        "PDB_ID": "6FK9",
         "GPCRmd_ID": "778"
     },
     "721": {
         "string": "C1CN(CCC12OC3=CC=CC=C3O2)C(=O)CC4=CC=C(C=C4)Cl",
-        "conftype": "Apo",
-        "PDB_ID": "6TQ9",
+        "conftype": "Holo",
+        "PDB_ID": "6FKB",
         "GPCRmd_ID": "721"
     },
     "901": {
         "string": "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCNCCCCC(C(=O)O)N)C)C",
         "conftype": "Holo",
-        "PDB_ID": "6TQ9",
+        "PDB_ID": "3C9L",
         "GPCRmd_ID": "901"
     },
     "841": {
         "string": "CC(C(C1=CC=C(C=C1)Cl)C(=O)N2CCC3(CC2)OC4=CC=CC=C4O3)N",
-        "conftype": "Apo",
-        "PDB_ID": "6TQ6",
+        "conftype": "Holo",
+        "PDB_ID": "6FK8",
         "GPCRmd_ID": "841"
     },
     "733": {
         "string": "CC(C)C(C1=CC(=C(C=C1)Cl)Cl)C(=O)N2CCC3(CC2)OC4=CC=CC=C4O3",
         "conftype": "Holo",
-        "PDB_ID": "6TQ6",
+        "PDB_ID": "6FKA",
         "GPCRmd_ID": "733"
     },
     "757": {
         "string": "CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCNCCCCC(C(=O)O)N)C)C",
-        "conftype": "Apo",
-        "PDB_ID": "6TOS",
+        "conftype": "Holo",
+        "PDB_ID": "3C9M",
         "GPCRmd_ID": "757"
     },
     "879": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "6TOS",
+        "PDB_ID": "4XT3",
         "GPCRmd_ID": "879"
     },
     "1245": {
         "string": "CCC(=O)O",
-        "conftype": "Apo",
-        "PDB_ID": "6TOT",
+        "conftype": "Holo",
+        "PDB_ID": "8F76",
         "GPCRmd_ID": "1245"
     },
     "1246": {
         "string": "CCC(=O)O",
         "conftype": "Holo",
-        "PDB_ID": "6TOT",
+        "PDB_ID": "8F76",
         "GPCRmd_ID": "1246"
     },
     "97": {
         "string": "CCC(Nc1cc(C)nc(c1C)Oc1c(C)cc(cc1C)C)CC",
         "conftype": "Holo",
-        "PDB_ID": "6TO7",
+        "PDB_ID": "4K5Y",
         "GPCRmd_ID": "97"
     },
     "705": {
         "string": "CC1(CC(C1)C(C2=CC=C(C=C2)C(=O)NCCC(=O)O)NC3=CN=C(C=C3)N4C=C(N=C4)C(F)(F)F)C",
-        "conftype": "Apo",
-        "PDB_ID": "6TP6",
+        "conftype": "Holo",
+        "PDB_ID": "6KK1",
         "GPCRmd_ID": "705"
     },
     "699": {
         "string": "CC1(CC(C1)C(C2=CC=C(C=C2)C(=O)NCCC(=O)O)NC3=CN=C(C=C3)N4C=C(N=C4)C(F)(F)F)C",
         "conftype": "Holo",
-        "PDB_ID": "6TP6",
+        "PDB_ID": "5VEW",
         "GPCRmd_ID": "699"
     },
     "1039": {
         "string": "CC1(CC(C1)C(C2=CC=C(C=C2)C(=O)NCCC(=O)O)NC3=CN=C(C=C3)N4C=C(N=C4)C(F)(F)F)C",
-        "conftype": "Apo",
-        "PDB_ID": "5WQC",
+        "conftype": "Holo",
+        "PDB_ID": "6KJV",
         "GPCRmd_ID": "1039"
     },
     "1065": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "5WQC",
+        "PDB_ID": "5NX2",
         "GPCRmd_ID": "1065"
     },
     "711": {
         "string": "CS(=O)(=O)C1=CC=CC(=C1)NC(=O)N(CC2=CC=C(C=C2)C(=O)NC3=NNN=N3)C4=CC=C(C=C4)C5CCCCC5",
-        "conftype": "Apo",
-        "PDB_ID": "6TPJ",
+        "conftype": "Holo",
+        "PDB_ID": "5VEX",
         "GPCRmd_ID": "711"
     },
     "877": {
         "string": "CC1(CC(C1)C(C2=CC=C(C=C2)C(=O)NCCC(=O)O)NC3=CN=C(C=C3)N4C=C(N=C4)C(F)(F)F)C",
         "conftype": "Holo",
-        "PDB_ID": "6TPJ",
+        "PDB_ID": "6KK7",
         "GPCRmd_ID": "877"
     },
     "743": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "6TPN",
+        "conftype": "Holo",
+        "PDB_ID": "5YQZ",
         "GPCRmd_ID": "743"
     },
     "816": {
         "string": "CC(C1=CC=C(C=C1)C(=O)NCCC(=O)O)N2C(=CC(=N2)C3=CC(=CC(=C3)Cl)Cl)C4=CC5=C(C=C4)C=C(C=C5)OC",
         "conftype": "Holo",
-        "PDB_ID": "6TPN",
+        "PDB_ID": "5EE7",
         "GPCRmd_ID": "816"
     },
     "234": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "4S0V",
+        "PDB_ID": "6NBF",
         "GPCRmd_ID": "234"
     },
     "237": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "4S0V",
+        "conftype": "Holo",
+        "PDB_ID": "6NBF",
         "GPCRmd_ID": "237"
     },
     "238": {
         "string": "",
-        "conftype": "Apo",
-        "PDB_ID": "6TPG",
+        "conftype": "Holo",
+        "PDB_ID": "6NBF",
         "GPCRmd_ID": "238"
     },
     "247": {
         "string": "",
         "conftype": "Holo",
-        "PDB_ID": "6TPG",
+        "PDB_ID": "6NBF",
         "GPCRmd_ID": "247"
     },
     "193": {
         "string": "N#Cc1cc(Cl)cc(c1)c1ncnc(c1)c1ccc(cn1)F",
-        "conftype": "Apo",
-        "PDB_ID": "5WS3",
+        "conftype": "Holo",
+        "PDB_ID": "5CGD",
         "GPCRmd_ID": "193"
     },
     "762": {
         "string": "CN1CC(=O)N=C1NC(=O)NC2=CC(=CC=C2)Cl",
         "conftype": "Holo",
-        "PDB_ID": "5WS3",
+        "PDB_ID": "6FFH",
         "GPCRmd_ID": "762"
     },
     "843": {
         "string": "CC1=NC(=CC=C1)C#CC2=CC(=CC=C2)OC",
-        "conftype": "Apo",
-        "PDB_ID": "3VW7",
+        "conftype": "Holo",
+        "PDB_ID": "6FFI",
         "GPCRmd_ID": "843"
     },
     "933": {
         "string": "CC(C)(C1=CN=C(C=C1)N2CCN(CC2)C3=NN=C(C4=CC=CC=C43)CC5=CC=CC=C5)O",
         "conftype": "Holo",
-        "PDB_ID": "3VW7",
+        "PDB_ID": "4QIM",
         "GPCRmd_ID": "933"
     },
     "192": {
         "string": "O=C(c1ccc(cc1Cl)S(=O)(=O)C)Nc1ccc(c(c1)c1ccccn1)Cl",
         "conftype": "Holo",
-        "PDB_ID": "3VW7",
+        "PDB_ID": "5L7I",
         "GPCRmd_ID": "192"
     },
     "792": {
         "string": "CN1C(=CC=N1)C2=NN=C(C3=CC=CC=C32)N4CCC(CC4)N(C)C(=O)C5=C(C=C(C=C5)F)C(F)(F)F",
-        "conftype": "Apo",
-        "PDB_ID": "5NDZ",
+        "conftype": "Holo",
+        "PDB_ID": "4JKV",
         "GPCRmd_ID": "792"
     },
     "772": {
         "string": "CC1=C(C(=NN1C2=CC=CC=C2)C)C=NN3CCN(CC3)CC4=CC=CC=C4",
         "conftype": "Holo",
-        "PDB_ID": "5NDZ",
+        "PDB_ID": "4N4W",
         "GPCRmd_ID": "772"
     },
     "1023": {
         "string": "CC1CC2C(C(C3(O2)CCC4C5CC=C6CC(CCC6(C5CC4=C3C)C)O)C)NC1",
         "conftype": "Holo",
-        "PDB_ID": "5NDD",
+        "PDB_ID": "4O9R",
         "GPCRmd_ID": "1023"
     },
     "824": {
         "string": "CN1C(=CC=N1)C2=NN=C(C3=CC=CC=C32)N4CCC(CC4)N(C)C(=O)C5=C(C=C(C=C5)[N+](=O)[O-])C(F)(F)F",
-        "conftype": "Apo",
-        "PDB_ID": "6J20",
+        "conftype": "Holo",
+        "PDB_ID": "5V56",
         "GPCRmd_ID": "824"
     },
     "741": {
         "string": "CN1C(=CC=N1)C2=NN=C(C3=CC=CC=C32)N4CCC(CC4)N(C)C(=O)C5=C(C=C(C=C5)[N+](=O)[O-])C(F)(F)F",
         "conftype": "Holo",
-        "PDB_ID": "6J20",
+        "PDB_ID": "5V57",
         "GPCRmd_ID": "741"
     },
     "893": {
         "string": "CC1CC2C(C(C3(O2)CCC4C5CC=C6CC(CCC6(C5CC4=C3C)C)O)C)NC1",
-        "conftype": "Apo",
-        "PDB_ID": "6HLL",
+        "conftype": "Holo",
+        "PDB_ID": "6D32",
         "GPCRmd_ID": "893"
     }
 }
