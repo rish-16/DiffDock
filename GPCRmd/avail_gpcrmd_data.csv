@@ -1,0 +1,552 @@
+Class,Family,Structure,Protein,PDB_ID,GPCRmd_ID,ConformationalType,Title,URL
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT1B receptor, 5V54, 908, Apo, 5-hydroxytryptamine receptor 1b, https://submission.gpcrmd.org/view/908
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT1B receptor, 5V54, 909, Holo, 5-hydroxytryptamine receptor 1b in complex with, https://submission.gpcrmd.org/view/909
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT1B receptor, 4IAR, 87, Apo, 5-hydroxytryptamine receptor, https://submission.gpcrmd.org/view/87
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT1B receptor, 4IAR, 90, Holo, 5-hydroxytryptamine receptor 1B in complex with, https://submission.gpcrmd.org/view/90
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT1B receptor, 4IAQ, 85, Apo, 5-hydroxytryptamine receptor, https://submission.gpcrmd.org/view/85
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2A receptor, 6A94, 801, Apo, 5-hydroxytryptamine receptor 2a, https://submission.gpcrmd.org/view/801
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2A receptor, 6A94, 802, Holo, 5-hydroxytryptamine receptor 2a in complex with, https://submission.gpcrmd.org/view/802
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2A receptor, 6A93, 848, Apo, 5-hydroxytryptamine receptor 2a, https://submission.gpcrmd.org/view/848
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2A receptor, 6A93, 849, Holo, 5-hydroxytryptamine receptor 2a in complex with, https://submission.gpcrmd.org/view/849
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 4IB4, 94, Holo, 5-hydroxytryptamine receptor 2B in complex with, https://submission.gpcrmd.org/view/94
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 4IB4, 92, Apo, 5-hydroxytryptamine receptor, https://submission.gpcrmd.org/view/92
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DRY, 918, Apo, 5ht2b receptor, https://submission.gpcrmd.org/view/918
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DRY, 919, Holo, 5ht2b receptor in complex with, https://submission.gpcrmd.org/view/919
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 211, Apo, 5-HT2B, https://submission.gpcrmd.org/view/211
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 213, Apo, 5-HT2B, https://submission.gpcrmd.org/view/213
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 214, Holo, 5-HT2B receptor in complex with, https://submission.gpcrmd.org/view/214
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 215, Apo, 5-HT2B, https://submission.gpcrmd.org/view/215
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 216, Apo, 5-HT2B, https://submission.gpcrmd.org/view/216
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 217, Apo, name 5-HT2B, https://submission.gpcrmd.org/view/217
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 846, Apo, chimera protein of human 5-hydroxytryptamine receptor 2b and e. coli soluble cytochrome b562, https://submission.gpcrmd.org/view/846
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 5TVN, 847, Holo, chimera protein of human 5-hydroxytryptamine receptor 2b and e. coli soluble cytochrome b562 in complex with, https://submission.gpcrmd.org/view/847
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DRX, 718, Apo, 5ht2b receptor, https://submission.gpcrmd.org/view/718
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DRX, 719, Holo, 5ht2b receptor in complex with, https://submission.gpcrmd.org/view/719
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DS0, 959, Apo, 5ht2b receptor, https://submission.gpcrmd.org/view/959
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DS0, 960, Holo, 5ht2b receptor in complex with, https://submission.gpcrmd.org/view/960
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DRZ, 811, Apo, 5ht2b receptor, https://submission.gpcrmd.org/view/811
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 6DRZ, 812, Holo, 5ht2b receptor in complex with, https://submission.gpcrmd.org/view/812
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 4NC3, 819, Apo, chimera protein of human 5-hydroxytryptamine receptor 2b and e. coli soluble cytochrome b562, https://submission.gpcrmd.org/view/819
+Class A (Rhodopsin), Aminergic receptors, 5-Hydroxytryptamine receptors, 5-HT2B receptor, 4NC3, 820, Holo, chimera protein of human 5-hydroxytryptamine receptor 2b and e. coli soluble cytochrome b562 in complex with, https://submission.gpcrmd.org/view/820
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M1 receptor, 5CXV, 154, Apo, Muscarinic acetylcholine receptor, https://submission.gpcrmd.org/view/154
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M1 receptor, 5CXV, 194, Holo, Muscarinic acetylcholine receptor M1 in complex with, https://submission.gpcrmd.org/view/194
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5YC8, 1127, Holo, M2 muscarinic acetylcholine receptor bound with, https://submission.gpcrmd.org/view/1127
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZK3, 989, Apo, muscarinic acetylcholine receptor m2, https://submission.gpcrmd.org/view/989
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZK3, 990, Holo, muscarinic acetylcholine receptor m2 in complex with, https://submission.gpcrmd.org/view/990
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZKC, 1126, Holo, M2 muscarinic acetylcholine receptor in complex with with, https://submission.gpcrmd.org/view/1126
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZKC, 968, Apo, muscarinic acetylcholine receptor m2, https://submission.gpcrmd.org/view/968
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 4MQT, 72, Apo, Muscarinic acetylcholine receptor, https://submission.gpcrmd.org/view/72
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZK8, 1096, Holo, M2 muscarinic acetylcholine receptor in complex with, https://submission.gpcrmd.org/view/1096
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZK8, 797, Apo, muscarinic acetylcholine receptor m2, https://submission.gpcrmd.org/view/797
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 3UON, 112, Holo, Muscarinic acetylcholine receptor M2 in complex with QUINUCLIDINYL, https://submission.gpcrmd.org/view/112
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 3UON, 111, Apo, Muscarinic acetylcholine receptor, https://submission.gpcrmd.org/view/111
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 4MQS, 68, Apo, Muscarinic acetylcholine receptor, https://submission.gpcrmd.org/view/68
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 4MQS, 69, Holo, Muscarinic acetylcholine receptor M2 in complex with, https://submission.gpcrmd.org/view/69
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZKB, 1029, Holo, muscarinic acetylcholine receptor m2 in complex with, https://submission.gpcrmd.org/view/1029
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M2 receptor, 5ZKB, 1028, Apo, muscarinic acetylcholine receptor m2, https://submission.gpcrmd.org/view/1028
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M3 receptor, 5ZHP, 1125, Holo, M3 muscarinic acetylcholine receptor in complex with a selective, https://submission.gpcrmd.org/view/1125
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M3 receptor, 5ZHP, 947, Apo, muscarinic acetylcholine receptor m3, https://submission.gpcrmd.org/view/947
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M3 receptor, 4U15, 93, Apo, Muscarinic acetylcholine receptor, https://submission.gpcrmd.org/view/93
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M3 receptor, 4U15, 174, Holo, Muscarinic acetylcholine receptor M3 in complex with, https://submission.gpcrmd.org/view/174
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M3 receptor, 4U16, 175, Apo, Muscarinic acetylcholine receptor, https://submission.gpcrmd.org/view/175
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M3 receptor, 4U16, 176, Holo, Muscarinic acetylcholine receptor M3 in complex with, https://submission.gpcrmd.org/view/176
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M4 receptor, 5DSG, 157, Apo, Muscarinic acetylcholine receptor, https://submission.gpcrmd.org/view/157
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M4 receptor, 5DSG, 173, Holo, Muscarinic acetylcholine receptor M4 in complex with, https://submission.gpcrmd.org/view/173
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M4 receptor, 6KP6, 983, Apo, muscarinic acetylcholine receptor m4, https://submission.gpcrmd.org/view/983
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M5 receptor, 6OL9, 1094, Holo, M5 muscarinic acetylcholine receptor in complex with, https://submission.gpcrmd.org/view/1094
+Class A (Rhodopsin), Aminergic receptors, Acetylcholine receptors (muscarinic), M5 receptor, 6OL9, 973, Apo, muscarinic acetylcholine receptor m5, https://submission.gpcrmd.org/view/973
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 5F8U, 728, Apo, beta-1 adrenergic receptor, https://submission.gpcrmd.org/view/728
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 5F8U, 729, Holo, beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/729
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4BVN, 58, Holo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/58
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4BVN, 143, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/143
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4BVN, 144, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/144
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y03, 23, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/23
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y03, 24, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/24
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y03, 25, Holo, Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/25
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y03, 26, Holo, Partially thermostabilized Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/26
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2YCZ, 785, Apo, beta-1 adrenergic receptor, https://submission.gpcrmd.org/view/785
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2YCZ, 786, Holo, beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/786
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 3ZPR, 135, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/135
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 3ZPR, 136, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/136
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 3ZPR, 137, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/137
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y04, 27, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/27
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y04, 28, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/28
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y04, 29, Holo, Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/29
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y04, 55, Holo, Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/55
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2YCW, 56, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/56
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2YCW, 57, Holo, Beta-1 adrenergic receptor complex with, https://submission.gpcrmd.org/view/57
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2YCW, 64, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/64
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4AMI, 138, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/138
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4AMI, 139, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/139
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4AMI, 140, Holo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/140
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y00, 13, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/13
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y00, 14, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/14
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y00, 15, Holo, Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/15
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y00, 16, Holo, Partially thermostabilized Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/16
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4AMJ, 141, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/141
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4AMJ, 142, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/142
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4AMJ, 167, Holo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/167
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4AMJ, 195, Holo, Partially thermostabilized Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/195
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 3ZPQ, 131, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/131
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 3ZPQ, 132, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/132
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 3ZPQ, 133, Holo, Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/133
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 3ZPQ, 134, Holo, Partially thermostabilized Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/134
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y02, 19, Holo, Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/19
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y02, 20, Holo, Partially thermostabilized Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/20
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y02, 17, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/17
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 2Y02, 18, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/18
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 4GPO, 961, Apo, beta-1 adrenergic receptor, https://submission.gpcrmd.org/view/961
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 5A8E, 147, Apo, Beta-1 adrenergic, https://submission.gpcrmd.org/view/147
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 5A8E, 148, Apo, Partially thermostabilized Beta-1 adrenergic, https://submission.gpcrmd.org/view/148
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 5A8E, 149, Holo, Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/149
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β1-adrenoceptor, 5A8E, 150, Holo, Partially thermostabilized Beta-1 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/150
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 5D6L, 962, Apo, beta-2 adrenergic receptor, https://submission.gpcrmd.org/view/962
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 5D6L, 963, Holo, beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/963
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 5X7D, 769, Apo, chimera protein of beta-2 adrenergic receptor and lysozyme, https://submission.gpcrmd.org/view/769
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 5X7D, 770, Holo, chimera protein of beta-2 adrenergic receptor and lysozyme in complex with, https://submission.gpcrmd.org/view/770
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS4, 829, Apo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme, https://submission.gpcrmd.org/view/829
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS4, 830, Holo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme in complex with, https://submission.gpcrmd.org/view/830
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4GBR, 970, Apo, beta-2 adrenergic receptor, https://submission.gpcrmd.org/view/970
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4GBR, 971, Holo, beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/971
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3NYA, 124, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/124
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3NYA, 100, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/100
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS3, 926, Apo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme, https://submission.gpcrmd.org/view/926
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS3, 927, Holo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme in complex with, https://submission.gpcrmd.org/view/927
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 2RH1, 11, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/11
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4LDL, 114, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/114
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4LDL, 115, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/115
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PRZ, 979, Apo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme, https://submission.gpcrmd.org/view/979
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PRZ, 980, Holo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme in complex with, https://submission.gpcrmd.org/view/980
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 5JQH, 159, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/159
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 5JQH, 160, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/160
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS1, 763, Apo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme, https://submission.gpcrmd.org/view/763
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS1, 764, Holo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme in complex with, https://submission.gpcrmd.org/view/764
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3NY8, 123, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/123
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3NY8, 88, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/88
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6OBA, 1130, Holo, beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/1130
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6OBA, 1003, Apo, beta-2 adrenergic receptor, https://submission.gpcrmd.org/view/1003
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3PDS, 107, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/107
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3NY9, 96, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/96
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3NY9, 99, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/99
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4LDE, 113, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/113
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4LDE, 121, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/121
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS6, 951, Apo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme, https://submission.gpcrmd.org/view/951
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS6, 952, Holo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme in complex with, https://submission.gpcrmd.org/view/952
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3D4S, 65, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/65
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 3D4S, 83, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/83
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS5, 751, Apo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme, https://submission.gpcrmd.org/view/751
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS5, 752, Holo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme in complex with, https://submission.gpcrmd.org/view/752
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS2, 863, Apo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme, https://submission.gpcrmd.org/view/863
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS2, 864, Holo, fusion protein of beta-2 adrenergic receptor and t4 lysozyme in complex with, https://submission.gpcrmd.org/view/864
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS0, 684, Apo, 6PS0, https://submission.gpcrmd.org/view/684
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 6PS0, 685, Holo, 6PS0, https://submission.gpcrmd.org/view/685
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4QKX, 82, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/82
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4LDO, 116, Apo, Beta-2 adrenergic, https://submission.gpcrmd.org/view/116
+Class A (Rhodopsin), Aminergic receptors, Adrenoceptors, β2-adrenoceptor, 4LDO, 117, Holo, Beta-2 adrenergic receptor in complex with, https://submission.gpcrmd.org/view/117
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D2 receptor, 6LUQ, 838, Apo, chimera of d(2) dopamine receptor and endolysin, https://submission.gpcrmd.org/view/838
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D2 receptor, 6LUQ, 839, Holo, chimera of d(2) dopamine receptor and endolysin in complex with, https://submission.gpcrmd.org/view/839
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D2 receptor, 6CM4, 924, Apo, d(2) dopamine receptor, https://submission.gpcrmd.org/view/924
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D2 receptor, 6CM4, 925, Holo, d(2) dopamine receptor in complex with, https://submission.gpcrmd.org/view/925
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D3 receptor, 3PBL, 105, Apo, D(3) dopamine, https://submission.gpcrmd.org/view/105
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D3 receptor, 3PBL, 106, Holo, D(3) dopamine receptor in complex with, https://submission.gpcrmd.org/view/106
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D4 receptor, 5WIU, 1005, Apo, d(4) dopamine receptor, https://submission.gpcrmd.org/view/1005
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D4 receptor, 5WIU, 1006, Holo, d(4) dopamine receptor in complex with, https://submission.gpcrmd.org/view/1006
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D4 receptor, 5WIV, 831, Apo, d(4) dopamine receptor, https://submission.gpcrmd.org/view/831
+Class A (Rhodopsin), Aminergic receptors, Dopamine receptors, D4 receptor, 5WIV, 832, Holo, d(4) dopamine receptor in complex with, https://submission.gpcrmd.org/view/832
+Class A (Rhodopsin), Aminergic receptors, Histamine receptors, H1 receptor, 3RZE, 108, Apo, Histamine H1, https://submission.gpcrmd.org/view/108
+Class A (Rhodopsin), Aminergic receptors, Histamine receptors, H1 receptor, 3RZE, 109, Holo, Histamine H1 receptor in complex with, https://submission.gpcrmd.org/view/109
+Class A (Rhodopsin), Aminergic receptors, Histamine receptors, H1 receptor, 3RZE, 126, Holo, Histamine H1 receptor in complex with, https://submission.gpcrmd.org/view/126
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 4ZUD, 120, Holo, Type-1 angiotensin II receptor with, https://submission.gpcrmd.org/view/120
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 4ZUD, 146, Holo, Type-1 angiotensin II, https://submission.gpcrmd.org/view/146
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 4ZUD, 189, Apo, Type-1 angiotensin II, https://submission.gpcrmd.org/view/189
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 4ZUD, 190, Holo, Type-1 angiotensin II receptor in complex with, https://submission.gpcrmd.org/view/190
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 4YAY, 166, Apo, Type-1 angiotensin II, https://submission.gpcrmd.org/view/166
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 6DO1, 218, Holo, angiotensin II type 1, https://submission.gpcrmd.org/view/218
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 6DO1, 219, Holo, angiotensin II type 1 receptor in complex with modified ANG, https://submission.gpcrmd.org/view/219
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT1 receptor, 6DO1, 220, Holo, angiotensin II type 1 receptor incomplex with, https://submission.gpcrmd.org/view/220
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT2 receptor, 5UNH, 939, Apo, type-2 angiotensin ii receptor, https://submission.gpcrmd.org/view/939
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT2 receptor, 5UNH, 940, Holo, type-2 angiotensin ii receptor in complex with, https://submission.gpcrmd.org/view/940
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT2 receptor, 5UNF, 916, Apo, chimera protein of type-2 angiotensin ii receptor and soluble cytochrome b562, https://submission.gpcrmd.org/view/916
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT2 receptor, 5UNF, 917, Holo, chimera protein of type-2 angiotensin ii receptor and soluble cytochrome b562 in complex with, https://submission.gpcrmd.org/view/917
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT2 receptor, 5UNG, 890, Apo, chimera protein of type-2 angiotensin ii receptor and soluble cytochrome b562, https://submission.gpcrmd.org/view/890
+Class A (Rhodopsin), Peptide receptors, Angiotensin receptors, AT2 receptor, 5UNG, 891, Holo, chimera protein of type-2 angiotensin ii receptor and soluble cytochrome b562 in complex with, https://submission.gpcrmd.org/view/891
+Class A (Rhodopsin), Peptide receptors, Apelin receptors, apelin receptor, 5VBL, 1063, Apo, Apelin receptor, https://submission.gpcrmd.org/view/1063
+Class A (Rhodopsin), Peptide receptors, Apelin receptors, apelin receptor, 5VBL, 1062, Holo, Apelin receptor in complex with agonist, https://submission.gpcrmd.org/view/1062
+Class A (Rhodopsin), Peptide receptors, Complement peptide receptors, C5a1 receptor, 5O9H, 920, Apo, c5a anaphylatoxin chemotactic receptor 1, https://submission.gpcrmd.org/view/920
+Class A (Rhodopsin), Peptide receptors, Complement peptide receptors, C5a1 receptor, 5O9H, 921, Holo, c5a anaphylatoxin chemotactic receptor 1 in complex with, https://submission.gpcrmd.org/view/921
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 5XPR, 886, Apo, endothelin b receptor, https://submission.gpcrmd.org/view/886
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 5XPR, 887, Holo, endothelin b receptor in complex with, https://submission.gpcrmd.org/view/887
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 5X93, 964, Apo, endothelin b receptor, https://submission.gpcrmd.org/view/964
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 5X93, 965, Holo, endothelin b receptor in complex with, https://submission.gpcrmd.org/view/965
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6LRY, 996, Apo, endothelin receptor type b, https://submission.gpcrmd.org/view/996
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6LRY, 997, Holo, endothelin receptor type b in complex with, https://submission.gpcrmd.org/view/997
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 5GLI, 837, Apo, endothelin receptor subtype-b, https://submission.gpcrmd.org/view/837
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 5GLH, 168, Holo, Endothelin B receptor in complex with, https://submission.gpcrmd.org/view/168
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 5GLH, 158, Apo, Endothelin B, https://submission.gpcrmd.org/view/158
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6IGL, 1059, Apo, Endothelin receptor type B, https://submission.gpcrmd.org/view/1059
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6IGL, 1064, Holo, Endothelin receptor type B in complex with IRL, https://submission.gpcrmd.org/view/1064
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6K1Q, 787, Apo, endothelin b receptor, https://submission.gpcrmd.org/view/787
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6K1Q, 788, Holo, endothelin b receptor in complex with, https://submission.gpcrmd.org/view/788
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6IGK, 1015, Apo, endothelin receptor type b, https://submission.gpcrmd.org/view/1015
+Class A (Rhodopsin), Peptide receptors, Endothelin receptors, ETB receptor, 6IGK, 1016, Holo, endothelin receptor type b in complex with, https://submission.gpcrmd.org/view/1016
+Class A (Rhodopsin), Peptide receptors, Neuropeptide Y receptors, Y1 receptor, 5ZBQ, 1040, Holo, neuropeptide y receptor type 1 in complex with, https://submission.gpcrmd.org/view/1040
+Class A (Rhodopsin), Peptide receptors, Neuropeptide Y receptors, Y1 receptor, 5ZBQ, 700, Apo, neuropeptide y receptor type 1, https://submission.gpcrmd.org/view/700
+Class A (Rhodopsin), Peptide receptors, Neuropeptide Y receptors, Y1 receptor, 5ZBH, 904, Apo, neuropeptide y receptor type 1, https://submission.gpcrmd.org/view/904
+Class A (Rhodopsin), Peptide receptors, Neuropeptide Y receptors, Y1 receptor, 5ZBH, 905, Holo, neuropeptide y receptor type 1 in complex with, https://submission.gpcrmd.org/view/905
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4BUO, 880, Apo, neurotensin receptor type 1, https://submission.gpcrmd.org/view/880
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4BUO, 881, Holo, neurotensin receptor type 1 in complex with, https://submission.gpcrmd.org/view/881
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4GRV, 66, Apo, Neurotensin receptor type, https://submission.gpcrmd.org/view/66
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4GRV, 71, Holo, Neurotensin receptor type 1 in complex with, https://submission.gpcrmd.org/view/71
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4XEE, 177, Apo, Neurotensin receptor type, https://submission.gpcrmd.org/view/177
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4XEE, 178, Holo, Neurotensin receptor type 1 in complex with, https://submission.gpcrmd.org/view/178
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 5T04, 722, Apo, neurotensin receptor type 1, https://submission.gpcrmd.org/view/722
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 5T04, 723, Holo, neurotensin receptor type 1 in complex with, https://submission.gpcrmd.org/view/723
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4XES, 767, Apo, neurotensin receptor type 1, https://submission.gpcrmd.org/view/767
+Class A (Rhodopsin), Peptide receptors, Neurotensin receptors, NTS1 receptor, 4XES, 768, Holo, neurotensin receptor type 1 in complex with neurotensin/neuromedin, https://submission.gpcrmd.org/view/768
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, δ receptor, 4RWD, 84, Apo, Delta-type opioid, https://submission.gpcrmd.org/view/84
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, δ receptor, 4N6H, 145, Holo, Delta-type opioid receptor in complex with, https://submission.gpcrmd.org/view/145
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, δ receptor, 4N6H, 73, Apo, Delta-type opioid, https://submission.gpcrmd.org/view/73
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, δ receptor, 4EJ4, 724, Apo, delta-type opioid receptor, https://submission.gpcrmd.org/view/724
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, δ receptor, 4EJ4, 725, Holo, delta-type opioid receptor in complex with, https://submission.gpcrmd.org/view/725
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, κ receptor, 4DJH, 59, Apo, Kappa-type opioid, https://submission.gpcrmd.org/view/59
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, κ receptor, 4DJH, 60, Holo, Kappa-type opioid receptor in complex with, https://submission.gpcrmd.org/view/60
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, μ receptor, 5C1M, 169, Holo, Mu-type opioid receptor in complex with, https://submission.gpcrmd.org/view/169
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, μ receptor, 5C1M, 151, Apo, Mu-type opioid, https://submission.gpcrmd.org/view/151
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, μ receptor, 4DKL, 61, Apo, Mu-type opioid, https://submission.gpcrmd.org/view/61
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, NOP receptor, 4EA3, 62, Apo, Nociceptin, https://submission.gpcrmd.org/view/62
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, NOP receptor, 4EA3, 70, Holo, Nociceptin receptor in complex with, https://submission.gpcrmd.org/view/70
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, NOP receptor, 5DHH, 155, Apo, Nociceptin, https://submission.gpcrmd.org/view/155
+Class A (Rhodopsin), Peptide receptors, Opioid receptors, NOP receptor, 5DHG, 156, Apo, Nociceptin, https://submission.gpcrmd.org/view/156
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ4, 966, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/966
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ4, 967, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/967
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ7, 736, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/736
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ7, 737, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/737
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 4ZJC, 188, Holo, Orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/188
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TP4, 759, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/759
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TP4, 760, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/760
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TOD, 914, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/914
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TOD, 915, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/915
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TP3, 758, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/758
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 4ZJ8, 186, Apo, Orexin receptor type, https://submission.gpcrmd.org/view/186
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 4ZJ8, 187, Holo, Orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/187
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ9, 833, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/833
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ9, 834, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/834
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ6, 859, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/859
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TQ6, 860, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/860
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TOS, 821, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/821
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TOS, 822, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/822
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TOT, 874, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/874
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TOT, 875, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/875
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TO7, 935, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/935
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TO7, 936, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/936
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TP6, 869, Apo, orexin receptor type 1, https://submission.gpcrmd.org/view/869
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX1 receptor, 6TP6, 870, Holo, orexin receptor type 1 in complex with, https://submission.gpcrmd.org/view/870
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 5WQC, 844, Apo, orexin receptor type 2, https://submission.gpcrmd.org/view/844
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 5WQC, 845, Holo, orexin receptor type 2 in complex with, https://submission.gpcrmd.org/view/845
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 6TPJ, 744, Apo, hypocretin receptor-2, https://submission.gpcrmd.org/view/744
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 6TPJ, 745, Holo, hypocretin receptor-2 in complex with, https://submission.gpcrmd.org/view/745
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 6TPN, 902, Apo, orexin receptor type 2, https://submission.gpcrmd.org/view/902
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 6TPN, 903, Holo, orexin receptor type 2 in complex with, https://submission.gpcrmd.org/view/903
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 4S0V, 172, Holo, Orexin receptor type 2 in complex with, https://submission.gpcrmd.org/view/172
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 4S0V, 91, Apo, Orexin receptor type, https://submission.gpcrmd.org/view/91
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 6TPG, 865, Apo, hypocretin receptor-2, https://submission.gpcrmd.org/view/865
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 6TPG, 866, Holo, hypocretin receptor-2 in complex with, https://submission.gpcrmd.org/view/866
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 5WS3, 726, Apo, orexin receptor type 2, https://submission.gpcrmd.org/view/726
+Class A (Rhodopsin), Peptide receptors, Orexin receptors, OX2 receptor, 5WS3, 727, Holo, orexin receptor type 2 in complex with, https://submission.gpcrmd.org/view/727
+Class A (Rhodopsin), Peptide receptors, Proteinase-activated receptors, PAR1, 3VW7, 128, Apo, Proteinase-activated receptor, https://submission.gpcrmd.org/view/128
+Class A (Rhodopsin), Peptide receptors, Proteinase-activated receptors, PAR1, 3VW7, 129, Holo, Proteinase-activated receptor, https://submission.gpcrmd.org/view/129
+Class A (Rhodopsin), Peptide receptors, Proteinase-activated receptors, PAR1, 3VW7, 130, Holo, Proteinase-activated receptor 1 in complex with, https://submission.gpcrmd.org/view/130
+Class A (Rhodopsin), Peptide receptors, Proteinase-activated receptors, PAR2, 5NDZ, 1018, Apo, proteinase-activated receptor 2, https://submission.gpcrmd.org/view/1018
+Class A (Rhodopsin), Peptide receptors, Proteinase-activated receptors, PAR2, 5NDZ, 1019, Holo, proteinase-activated receptor 2 in complex with, https://submission.gpcrmd.org/view/1019
+Class A (Rhodopsin), Peptide receptors, Proteinase-activated receptors, PAR2, 5NDD, 977, Apo, proteinase-activated receptor 2, https://submission.gpcrmd.org/view/977
+Class A (Rhodopsin), Peptide receptors, Proteinase-activated receptors, PAR2, 5NDD, 978, Holo, proteinase-activated receptor 2 in complex with, https://submission.gpcrmd.org/view/978
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6J20, 910, Apo, substance-p receptor, https://submission.gpcrmd.org/view/910
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6J20, 911, Holo, substance-p receptor in complex with, https://submission.gpcrmd.org/view/911
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6HLL, 850, Apo, substance-p receptor, https://submission.gpcrmd.org/view/850
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6HLL, 851, Holo, substance-p receptor in complex with, https://submission.gpcrmd.org/view/851
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6J21, 781, Apo, substance-p receptor, https://submission.gpcrmd.org/view/781
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6J21, 782, Holo, substance-p receptor in complex with, https://submission.gpcrmd.org/view/782
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6HLO, 730, Apo, substance-p receptor, https://submission.gpcrmd.org/view/730
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6HLO, 731, Holo, substance-p receptor in complex with, https://submission.gpcrmd.org/view/731
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6E59, 855, Apo, substance-p receptor chimera, https://submission.gpcrmd.org/view/855
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6E59, 856, Holo, substance-p receptor chimera in complex with, https://submission.gpcrmd.org/view/856
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6HLP, 937, Apo, substance-p receptor, https://submission.gpcrmd.org/view/937
+Class A (Rhodopsin), Peptide receptors, Tachykinin receptors, NK1 receptor, 6HLP, 938, Holo, substance-p receptor in complex with, https://submission.gpcrmd.org/view/938
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR2, 5T1A, 734, Apo, chimera protein of cc chemokine receptor type 2 isoform b and t4-lysozyme, https://submission.gpcrmd.org/view/734
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR2, 5T1A, 735, Holo, chimera protein of cc chemokine receptor type 2 isoform b and t4-lysozyme in complex with, https://submission.gpcrmd.org/view/735
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR2, 6GPS, 708, Apo, c-c chemokine receptor type 2, https://submission.gpcrmd.org/view/708
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR2, 6GPS, 709, Holo, c-c chemokine receptor type 2 in complex with, https://submission.gpcrmd.org/view/709
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR2, 6GPX, 799, Apo, c-c chemokine receptor type 2, https://submission.gpcrmd.org/view/799
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR2, 6GPX, 800, Holo, c-c chemokine receptor type 2 in complex with, https://submission.gpcrmd.org/view/800
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 6AKY, 1124, Holo, Chemokine Receptor CCR5 in complex with compound, https://submission.gpcrmd.org/view/1124
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 6AKY, 941, Apo, c-c chemokine receptor type 5, https://submission.gpcrmd.org/view/941
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 6AKX, 1095, Holo, Chemokine Receptor CCR5 in complex with compound, https://submission.gpcrmd.org/view/1095
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 6AKX, 779, Apo, c-c chemokine receptor type 5, https://submission.gpcrmd.org/view/779
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 4MBS, 67, Holo, C-C chemokine receptor type 5 in complex with, https://submission.gpcrmd.org/view/67
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 4MBS, 118, Apo, C-C chemokine receptor type, https://submission.gpcrmd.org/view/118
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 4MBS, 119, Holo, C-C chemokine receptor type 5 in complex with, https://submission.gpcrmd.org/view/119
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 5UIW, 898, Apo, c-c chemokine receptor type 5, https://submission.gpcrmd.org/view/898
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CCR5, 5UIW, 899, Holo, c-c chemokine receptor type 5 in complex with c-c motif chemokine, https://submission.gpcrmd.org/view/899
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CXCR4, 3OE0, 104, Apo, C-X-C chemokine receptor type, https://submission.gpcrmd.org/view/104
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CXCR4, 4RWS, 86, Holo, C-X-C chemokine receptor type 4 in complex with vMIP-II W5C, https://submission.gpcrmd.org/view/86
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CXCR4, 4RWS, 89, Holo, C-X-C chemokine receptor type 4 in complex with vMIP-II W5C, https://submission.gpcrmd.org/view/89
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CXCR4, 4RWS, 98, Apo, C-X-C chemokine receptor type, https://submission.gpcrmd.org/view/98
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CXCR4, 3ODU, 102, Holo, C-X-C chemokine receptor type 4 in complex with, https://submission.gpcrmd.org/view/102
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CXCR4, 3ODU, 103, Holo, C-X-C chemokine receptor type 4 in complex with, https://submission.gpcrmd.org/view/103
+Class A (Rhodopsin), Protein receptors, Chemokine receptors, CXCR4, 3ODU, 101, Apo, C-X-C chemokine receptor type, https://submission.gpcrmd.org/view/101
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 5TZY, 928, Apo, free fatty acid receptor 1, https://submission.gpcrmd.org/view/928
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 5TZY, 929, Holo, free fatty acid receptor 1 in complex with, https://submission.gpcrmd.org/view/929
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 4PHU, 75, Apo, Free fatty acid receptor, https://submission.gpcrmd.org/view/75
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 4PHU, 76, Holo, Free fatty acid receptor 1 in complex with, https://submission.gpcrmd.org/view/76
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 5KW2, 765, Apo, free fatty acid receptor 1, https://submission.gpcrmd.org/view/765
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 5KW2, 766, Holo, free fatty acid receptor 1 in complex with, https://submission.gpcrmd.org/view/766
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 5TZR, 793, Apo, free fatty acid receptor 1, https://submission.gpcrmd.org/view/793
+Class A (Rhodopsin), Lipid receptors, Free fatty acid receptors, FFA1 receptor, 5TZR, 794, Holo, free fatty acid receptor 1 in complex with, https://submission.gpcrmd.org/view/794
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, BLT1 receptor, 5X33, 957, Apo, ltb4 receptor, https://submission.gpcrmd.org/view/957
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, BLT1 receptor, 5X33, 958, Holo, ltb4 receptor in complex with, https://submission.gpcrmd.org/view/958
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT1 receptor, 6RZ5, 861, Apo, cysteinyl leukotriene receptor 1, https://submission.gpcrmd.org/view/861
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT1 receptor, 6RZ5, 862, Holo, cysteinyl leukotriene receptor 1 in complex with, https://submission.gpcrmd.org/view/862
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT1 receptor, 6RZ4, 738, Apo, cysteinyl leukotriene receptor 1, https://submission.gpcrmd.org/view/738
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT1 receptor, 6RZ4, 739, Holo, cysteinyl leukotriene receptor 1 in complex with, https://submission.gpcrmd.org/view/739
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ9, 690, Apo, cysteinyl leukotriene receptor 2, https://submission.gpcrmd.org/view/690
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ9, 691, Holo, cysteinyl leukotriene receptor 2 in complex with, https://submission.gpcrmd.org/view/691
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ6, 825, Apo, cysteinyl leukotriene receptor 2, https://submission.gpcrmd.org/view/825
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ6, 826, Holo, cysteinyl leukotriene receptor 2 in complex with, https://submission.gpcrmd.org/view/826
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ8, 789, Apo, cysteinyl leukotriene receptor 2, https://submission.gpcrmd.org/view/789
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ8, 790, Holo, cysteinyl leukotriene receptor 2 in complex with, https://submission.gpcrmd.org/view/790
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ7, 805, Apo, cysteinyl leukotriene receptor 2, https://submission.gpcrmd.org/view/805
+Class A (Rhodopsin), Lipid receptors, Leukotriene receptors, CysLT2 receptor, 6RZ7, 806, Holo, cysteinyl leukotriene receptor 2 in complex with, https://submission.gpcrmd.org/view/806
+Class A (Rhodopsin), Lipid receptors, Lysophospholipid (LPA) receptors, LPA1 receptor, 4Z35, 184, Apo, Lysophosphatidic acid receptor, https://submission.gpcrmd.org/view/184
+Class A (Rhodopsin), Lipid receptors, Lysophospholipid (LPA) receptors, LPA1 receptor, 4Z36, 185, Holo, Lysophosphatidic acid receptor 1 in complex withi, https://submission.gpcrmd.org/view/185
+Class A (Rhodopsin), Lipid receptors, Lysophospholipid (LPA) receptors, LPA1 receptor, 4Z34, 171, Apo, Lysophosphatidic acid receptor, https://submission.gpcrmd.org/view/171
+Class A (Rhodopsin), Lipid receptors, Lysophospholipid (LPA) receptors, LPA1 receptor, 4Z34, 183, Holo, Lysophosphatidic acid receptor 1 in complex with, https://submission.gpcrmd.org/view/183
+Class A (Rhodopsin), Lipid receptors, Lysophospholipid (LPA) receptors, LPA6 receptor, 5XSZ, 871, Apo, lysophosphatidic acid receptor 6a, https://submission.gpcrmd.org/view/871
+Class A (Rhodopsin), Lipid receptors, Lysophospholipid (S1P) receptors, S1P1 receptor, 3V2Y, 63, Apo, Sphingosine 1-phosphate receptor, https://submission.gpcrmd.org/view/63
+Class A (Rhodopsin), Lipid receptors, Lysophospholipid (S1P) receptors, S1P1 receptor, 3V2Y, 127, Holo, Sphingosine 1-phosphate receptor 1 in complex with, https://submission.gpcrmd.org/view/127
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 5U09, 22, Holo, Cannabinoid receptor 1 in complex with, https://submission.gpcrmd.org/view/22
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 5U09, 163, Apo, Cannabinoid receptor, https://submission.gpcrmd.org/view/163
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 5U09, 164, Holo, Cannabinoid receptor 1 in complex with, https://submission.gpcrmd.org/view/164
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 5XRA, 896, Apo, cannabinoid receptor 1, https://submission.gpcrmd.org/view/896
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 5XRA, 897, Holo, cannabinoid receptor 1 in complex with, https://submission.gpcrmd.org/view/897
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 5XR8, 852, Apo, cannabinoid receptor 1, https://submission.gpcrmd.org/view/852
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 5TGZ, 162, Apo, Cannabinoid receptor, https://submission.gpcrmd.org/view/162
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB1 receptor, 6KQI, 1002, Holo, cannabinoid receptor 1 in complex with, https://submission.gpcrmd.org/view/1002
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB2 receptor, 6KPC, 955, Apo, cannabinoid receptor 2, https://submission.gpcrmd.org/view/955
+Class A (Rhodopsin), Lipid receptors, Cannabinoid receptors, CB2 receptor, 6KPC, 956, Holo, cannabinoid receptor 2 in complex with, https://submission.gpcrmd.org/view/956
+Class A (Rhodopsin), Lipid receptors, Platelet-activating factor receptors, PAF receptor, 5ZKQ, 694, Apo, platelet-activating factor receptor, https://submission.gpcrmd.org/view/694
+Class A (Rhodopsin), Lipid receptors, Platelet-activating factor receptors, PAF receptor, 5ZKQ, 695, Holo, platelet-activating factor receptor in complex with, https://submission.gpcrmd.org/view/695
+Class A (Rhodopsin), Lipid receptors, Platelet-activating factor receptors, PAF receptor, 5ZKP, 1024, Apo, platelet-activating factor receptor, https://submission.gpcrmd.org/view/1024
+Class A (Rhodopsin), Lipid receptors, Platelet-activating factor receptors, PAF receptor, 5ZKP, 1025, Holo, platelet-activating factor receptor in complex with, https://submission.gpcrmd.org/view/1025
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, DP2 receptor, 6D26, 984, Apo, prostaglandin d2 receptor 2, https://submission.gpcrmd.org/view/984
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, DP2 receptor, 6D26, 985, Holo, prostaglandin d2 receptor 2 in complex with, https://submission.gpcrmd.org/view/985
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, DP2 receptor, 6D27, 884, Apo, prostaglandin d2 receptor 2, https://submission.gpcrmd.org/view/884
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, DP2 receptor, 6D27, 885, Holo, prostaglandin d2 receptor 2 in complex with, https://submission.gpcrmd.org/view/885
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, EP3 receptor, 6AK3, 1026, Apo, prostaglandin e2 receptor ep3 subtype, https://submission.gpcrmd.org/view/1026
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, EP3 receptor, 6AK3, 1027, Holo, prostaglandin e2 receptor ep3 subtype in complex with, https://submission.gpcrmd.org/view/1027
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, EP3 receptor, 6M9T, 748, Apo, prostaglandin e2 receptor ep3 subtype, https://submission.gpcrmd.org/view/748
+Class A (Rhodopsin), Lipid receptors, Prostanoid receptors, EP3 receptor, 6M9T, 749, Holo, prostaglandin e2 receptor ep3 subtype in complex with, https://submission.gpcrmd.org/view/749
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6PS8, 1007, Apo, fusion protein of melatonin receptor type 1a and glga glycogen synthase, https://submission.gpcrmd.org/view/1007
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6PS8, 1008, Holo, fusion protein of melatonin receptor type 1a and glga glycogen synthase in complex with, https://submission.gpcrmd.org/view/1008
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME2, 712, Apo, chimera protein of melatonin receptor type 1a and glga glycogen synthase, https://submission.gpcrmd.org/view/712
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME2, 713, Holo, chimera protein of melatonin receptor type 1a and glga glycogen synthase in complex with, https://submission.gpcrmd.org/view/713
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME3, 692, Apo, chimera protein of melatonin receptor type 1a and glga glycogen synthase, https://submission.gpcrmd.org/view/692
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME3, 693, Holo, chimera protein of melatonin receptor type 1a and glga glycogen synthase in complex with, https://submission.gpcrmd.org/view/693
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME4, 803, Apo, chimera protein of melatonin receptor type 1a and glga glycogen synthase, https://submission.gpcrmd.org/view/803
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME4, 804, Holo, chimera protein of melatonin receptor type 1a and glga glycogen synthase in complex with, https://submission.gpcrmd.org/view/804
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME5, 807, Apo, chimera protein of melatonin receptor type 1a and glga glycogen synthase, https://submission.gpcrmd.org/view/807
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT1 receptor, 6ME5, 808, Holo, chimera protein of melatonin receptor type 1a and glga glycogen synthase in complex with, https://submission.gpcrmd.org/view/808
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME6, 795, Apo, melatonin receptor type 1b, https://submission.gpcrmd.org/view/795
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME6, 796, Holo, melatonin receptor type 1b in complex with, https://submission.gpcrmd.org/view/796
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME9, 817, Apo, melatonin receptor type 1b, https://submission.gpcrmd.org/view/817
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME9, 818, Holo, melatonin receptor type 1b in complex with, https://submission.gpcrmd.org/view/818
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME8, 945, Apo, melatonin receptor type 1b, https://submission.gpcrmd.org/view/945
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME8, 946, Holo, melatonin receptor type 1b in complex with, https://submission.gpcrmd.org/view/946
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME7, 993, Apo, melatonin receptor type 1b, https://submission.gpcrmd.org/view/993
+Class A (Rhodopsin), Melatonin receptors, Melatonin, MT2 receptor, 6ME7, 994, Holo, melatonin receptor type 1b in complex with, https://submission.gpcrmd.org/view/994
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A1 receptor, 5N2S, 1097, Holo, A1 receptor in complex with, https://submission.gpcrmd.org/view/1097
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A1 receptor, 5N2S, 775, Apo, adenosine receptor a1, https://submission.gpcrmd.org/view/775
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A1 receptor, 5UEN, 21, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/21
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A1 receptor, 5UEN, 165, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/165
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OM4, 714, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/714
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OM4, 715, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/715
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLH, 930, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/930
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLH, 931, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/931
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3REY, 36, Holo, Adenosine receptor A2a in complex with xanthine amine, https://submission.gpcrmd.org/view/36
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3REY, 35, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/35
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 4EIY, 43, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/43
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 4EIY, 44, Holo, Adenosine receptor A2a in complex with, https://submission.gpcrmd.org/view/44
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5VRA, 1011, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/1011
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5VRA, 1012, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/1012
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 4UHR, 45, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/45
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 4UHR, 46, Holo, Adenosine receptor A2a in complex, https://submission.gpcrmd.org/view/46
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3UZC, 42, Holo, Adenosine receptor A2a in complex with, https://submission.gpcrmd.org/view/42
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3UZC, 41, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/41
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2A, 1020, Apo, adenosine receptor a2a/soluble cytochrome b562 chimera, https://submission.gpcrmd.org/view/1020
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2A, 1021, Holo, adenosine receptor a2a/soluble cytochrome b562 chimera in complex with, https://submission.gpcrmd.org/view/1021
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLZ, 813, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/813
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLZ, 814, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/814
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6AQF, 753, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/753
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6AQF, 754, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/754
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6ZDV, 827, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/827
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6ZDV, 828, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/828
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5MZJ, 1098, Holo, A2A adenosine receptor in complex with, https://submission.gpcrmd.org/view/1098
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5MZJ, 995, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/995
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLV, 1017, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/1017
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5WF5, 1049, Apo, human a2a adenosine receptor t4l chimera, https://submission.gpcrmd.org/view/1049
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5WF5, 687, Holo, human a2a adenosine receptor t4l chimera in complex with, https://submission.gpcrmd.org/view/687
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6PS7, 1013, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/1013
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6PS7, 1014, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/1014
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5WF6, 1009, Apo, human a2a adenosine receptor t4l chimera, https://submission.gpcrmd.org/view/1009
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5WF6, 1010, Holo, human a2a adenosine receptor t4l chimera in complex with, https://submission.gpcrmd.org/view/1010
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 2YDV, 32, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/32
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 2YDV, 33, Holo, Adenosine receptor A2a in complex with, https://submission.gpcrmd.org/view/33
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLO, 975, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/975
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLO, 976, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/976
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3QAK, 34, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/34
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 2YDO, 30, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/30
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 2YDO, 31, Holo, Adenosine receptor A2a in complex with, https://submission.gpcrmd.org/view/31
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5MZP, 987, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/987
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5MZP, 988, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/988
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5IUB, 54, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/54
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2B, 853, Apo, adenosine receptor a2a/soluble cytochrome b562 chimera, https://submission.gpcrmd.org/view/853
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2B, 854, Holo, adenosine receptor a2a/soluble cytochrome b562 chimera in complex with, https://submission.gpcrmd.org/view/854
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5G53, 47, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/47
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5G53, 48, Holo, Adenosine receptor A2a in complex with N-ethyl-5'-carboxamido, https://submission.gpcrmd.org/view/48
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6JZH, 1000, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/1000
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6JZH, 1001, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/1001
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5NM2, 783, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/783
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5NM2, 784, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/784
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5UVI, 835, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/835
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5UVI, 836, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/836
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5IU8, 52, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/52
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5IUA, 53, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/53
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6MH8, 981, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/981
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6MH8, 982, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/982
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6GT3, 702, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/702
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6GT3, 703, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/703
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5N2R, 1123, Holo, A2A adenosine receptor in complex with, https://submission.gpcrmd.org/view/1123
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5N2R, 906, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/906
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3RFM, 38, Holo, Adenosine receptor A2a in complex with, https://submission.gpcrmd.org/view/38
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3RFM, 37, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/37
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2C, 998, Apo, adenosine receptor a2a/soluble cytochrome b562 chimera, https://submission.gpcrmd.org/view/998
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2C, 999, Holo, adenosine receptor a2a/soluble cytochrome b562 chimera in complex with, https://submission.gpcrmd.org/view/999
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLG, 922, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/922
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OLG, 923, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/923
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2D, 949, Apo, adenosine receptor a2a/soluble cytochrome b562 chimera, https://submission.gpcrmd.org/view/949
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5K2D, 950, Holo, adenosine receptor a2a/soluble cytochrome b562 chimera in complex with, https://submission.gpcrmd.org/view/950
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5UIG, 773, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/773
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5UIG, 774, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/774
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5NM4, 953, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/953
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5NM4, 954, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/954
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3UZA, 40, Holo, Adenosine receptor A2a in complex with, https://submission.gpcrmd.org/view/40
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 3UZA, 39, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/39
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5NLX, 991, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/991
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5NLX, 992, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/992
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5IU7, 51, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/51
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OM1, 857, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/857
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5OM1, 858, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/858
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5JTB, 696, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/696
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5JTB, 697, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/697
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6ZDR, 1032, Apo, adenosine receptor a2a, https://submission.gpcrmd.org/view/1032
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 6ZDR, 1033, Holo, adenosine receptor a2a in complex with, https://submission.gpcrmd.org/view/1033
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5IU4, 50, Holo, Adenosine receptor A2a in complex with, https://submission.gpcrmd.org/view/50
+Class A (Rhodopsin), Nucleotide receptors, Adenosine receptors, A2A receptor, 5IU4, 49, Apo, Adenosine receptor, https://submission.gpcrmd.org/view/49
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y1 receptor, 4XNW, 180, Apo, P2Y purinoceptor, https://submission.gpcrmd.org/view/180
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y1 receptor, 4XNW, 181, Holo, P2Y purinoceptor 1 in complex with, https://submission.gpcrmd.org/view/181
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y1 receptor, 4XNW, 182, Holo, P2Y purinoceptor 1 in complex with, https://submission.gpcrmd.org/view/182
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y1 receptor, 4XNV, 179, Apo, P2Y purinoceptor, https://submission.gpcrmd.org/view/179
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y1 receptor, 4XNV, 207, Holo, P2Y purinoceptor 1 in complex with, https://submission.gpcrmd.org/view/207
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y12 receptor, 4PXZ, 77, Apo, P2Y purinoceptor, https://submission.gpcrmd.org/view/77
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y12 receptor, 4PXZ, 78, Holo, P2Y purinoceptor 12 in complex with Methylthio-adenosine, https://submission.gpcrmd.org/view/78
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y12 receptor, 4NTJ, 716, Apo, p2y purinoceptor 12, https://submission.gpcrmd.org/view/716
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y12 receptor, 4NTJ, 717, Holo, p2y purinoceptor 12 in complex with, https://submission.gpcrmd.org/view/717
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y12 receptor, 4PY0, 79, Apo, P2Y purinoceptor, https://submission.gpcrmd.org/view/79
+Class A (Rhodopsin), Nucleotide receptors, P2Y receptors, P2Y12 receptor, 4PY0, 80, Holo, P2Y purinoceptor 12 in complex with, https://submission.gpcrmd.org/view/80
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 5TE5, 809, Apo, rhodopsin, https://submission.gpcrmd.org/view/809
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 5TE5, 810, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/810
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FKC, 706, Apo, rhodopsin, https://submission.gpcrmd.org/view/706
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FKC, 707, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/707
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 5TE3, 750, Apo, rhodopsin, https://submission.gpcrmd.org/view/750
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 1GZM, 894, Apo, rhodopsin, https://submission.gpcrmd.org/view/894
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 1GZM, 895, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/895
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 3PQR, 125, Apo, , https://submission.gpcrmd.org/view/125
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK7, 912, Apo, rhodopsin, https://submission.gpcrmd.org/view/912
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK7, 913, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/913
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 5DYS, 872, Apo, rhodopsin, https://submission.gpcrmd.org/view/872
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 5DYS, 873, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/873
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 2Z73, 688, Apo, rhodopsin, https://submission.gpcrmd.org/view/688
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 2Z73, 689, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/689
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK6, 943, Apo, rhodopsin, https://submission.gpcrmd.org/view/943
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK6, 944, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/944
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK9, 777, Apo, rhodopsin, https://submission.gpcrmd.org/view/777
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK9, 778, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/778
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FKB, 720, Apo, rhodopsin, https://submission.gpcrmd.org/view/720
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FKB, 721, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/721
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 3C9L, 900, Apo, rhodopsin, https://submission.gpcrmd.org/view/900
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 3C9L, 901, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/901
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK8, 840, Apo, rhodopsin, https://submission.gpcrmd.org/view/840
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FK8, 841, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/841
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FKA, 732, Apo, rhodopsin, https://submission.gpcrmd.org/view/732
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 6FKA, 733, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/733
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 3DQB, 122, Apo, , https://submission.gpcrmd.org/view/122
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 3C9M, 756, Apo, rhodopsin, https://submission.gpcrmd.org/view/756
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 3C9M, 757, Holo, rhodopsin in complex with, https://submission.gpcrmd.org/view/757
+Class A (Rhodopsin), Sensory receptors, Opsins, Rhodopsin, 1U19, 12, Apo, , https://submission.gpcrmd.org/view/12
+Class A (Rhodopsin), Orphan receptors, Class A orphans, GPR1, 4XT3, 878, Apo, g-protein coupled receptor homolog us28, https://submission.gpcrmd.org/view/878
+Class A (Rhodopsin), Orphan receptors, Class A orphans, GPR1, 4XT3, 879, Holo, g-protein coupled receptor homolog us28 in complex with, https://submission.gpcrmd.org/view/879
+Class A (Rhodopsin), Orphan receptors, Class A orphans, GPR1, 4XT1, 170, Apo, G-protein coupled receptor homolog, https://submission.gpcrmd.org/view/170
+Class A (Rhodopsin), Other, Unclassified, US28, 8F76, 1245, Holo, OR51E2 with propionate, https://submission.gpcrmd.org/view/1245
+Class A (Rhodopsin), Other, Unclassified, US28, 8F76, 1246, Holo, OR51E2-Q181D with propionate, https://submission.gpcrmd.org/view/1246
+Class A (Rhodopsin), Other, Unclassified, US28, 8F76, 1244, Holo, N/A, https://submission.gpcrmd.org/view/1244
+Class B1 (Secretin), Peptide receptors, Corticotropin-releasing factor receptors, CRF1 receptor, 4K5Y, 95, Apo, Corticotropin-releasing factor receptor, https://submission.gpcrmd.org/view/95
+Class B1 (Secretin), Peptide receptors, Corticotropin-releasing factor receptors, CRF1 receptor, 4K5Y, 97, Holo, Corticotropin-releasing factor receptor 1 in complex with, https://submission.gpcrmd.org/view/97
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 6KK1, 704, Apo, glucagon-like peptide 1 receptor, https://submission.gpcrmd.org/view/704
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 6KK1, 705, Holo, glucagon-like peptide 1 receptor in complex with, https://submission.gpcrmd.org/view/705
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 5VEW, 698, Apo, glucagon-like peptide 1 receptor, https://submission.gpcrmd.org/view/698
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 5VEW, 699, Holo, glucagon-like peptide 1 receptor in complex with, https://submission.gpcrmd.org/view/699
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 6KJV, 1039, Holo, glucagon-like peptide 1 receptor in complex with, https://submission.gpcrmd.org/view/1039
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 6KJV, 746, Apo, glucagon-like peptide 1 receptor, https://submission.gpcrmd.org/view/746
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 5NX2, 1061, Apo, Glucagon-like peptide 1 (GLP-1) receptor, https://submission.gpcrmd.org/view/1061
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 5NX2, 1065, Holo, Glucagon-like peptide 1 (GLP-1) receptor in complex with truncated peptide, https://submission.gpcrmd.org/view/1065
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 5VEX, 710, Apo, glucagon-like peptide 1 receptor, https://submission.gpcrmd.org/view/710
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 5VEX, 711, Holo, glucagon-like peptide 1 receptor in complex with, https://submission.gpcrmd.org/view/711
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 6KK7, 876, Apo, glucagon-like peptide 1 receptor, https://submission.gpcrmd.org/view/876
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, GLP-1 receptor, 6KK7, 877, Holo, glucagon-like peptide 1 receptor in complex with, https://submission.gpcrmd.org/view/877
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, glucagon receptor, 5YQZ, 742, Apo, glucagon receptor, https://submission.gpcrmd.org/view/742
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, glucagon receptor, 5YQZ, 743, Holo, glucagon receptor in complex with glucagon, https://submission.gpcrmd.org/view/743
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, glucagon receptor, 5EE7, 815, Apo, glucagon receptor, https://submission.gpcrmd.org/view/815
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, glucagon receptor, 5EE7, 816, Holo, glucagon receptor in complex with, https://submission.gpcrmd.org/view/816
+Class B1 (Secretin), Peptide receptors, Glucagon receptor family, glucagon receptor, 4L6R, 110, Apo, Glucagon, https://submission.gpcrmd.org/view/110
+Class B1 (Secretin), Peptide receptors, Parathyroid hormone receptors, PTH1 receptor, 6FJ3, 755, Apo, parathyroid hormone/parathyroid hormone-related peptide receptor, https://submission.gpcrmd.org/view/755
+Class B1 (Secretin), Peptide receptors, Parathyroid hormone receptors, PTH1 receptor, 6NBF, 234, Holo, Parathyroid hormone receptor in complex with long-acting parathyroid hormone analog mutant, https://submission.gpcrmd.org/view/234
+Class B1 (Secretin), Peptide receptors, Parathyroid hormone receptors, PTH1 receptor, 6NBF, 237, Holo, Parathyroid hormone receptor in complex with parathyroid hormone analog mutant, https://submission.gpcrmd.org/view/237
+Class B1 (Secretin), Peptide receptors, Parathyroid hormone receptors, PTH1 receptor, 6NBF, 238, Holo, Parathyroid hormone receptor in complex with parathyroid hormone analog mutant, https://submission.gpcrmd.org/view/238
+Class B1 (Secretin), Peptide receptors, Parathyroid hormone receptors, PTH1 receptor, 6NBF, 247, Holo, Parathyroid hormone receptor in complex with parathyroid hormone, https://submission.gpcrmd.org/view/247
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu1 receptor, 4OR2, 81, Apo, Metabotropic glutamate receptor, https://submission.gpcrmd.org/view/81
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 4OO9, 74, Apo, Metabotropic glutamate receptor, https://submission.gpcrmd.org/view/74
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 5CGD, 153, Apo, Metabotropic glutamate receptor, https://submission.gpcrmd.org/view/153
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 5CGD, 193, Holo, Metabotropic glutamate receptor 5 in complex with, https://submission.gpcrmd.org/view/193
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 6FFH, 761, Apo, metabotropic glutamate receptor 5, https://submission.gpcrmd.org/view/761
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 6FFH, 762, Holo, metabotropic glutamate receptor 5 in complex with, https://submission.gpcrmd.org/view/762
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 5CGC, 152, Apo, Metabotropic glutamate receptor, https://submission.gpcrmd.org/view/152
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 6FFI, 842, Apo, metabotropic glutamate receptor 5, https://submission.gpcrmd.org/view/842
+Class C (Glutamate), Amino acid receptors, Metabotropic glutamate receptors, mGlu5 receptor, 6FFI, 843, Holo, metabotropic glutamate receptor 5 in complex with, https://submission.gpcrmd.org/view/843
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4QIM, 932, Apo, smoothened homolog/soluble cytochrome b562 chimeric protein, https://submission.gpcrmd.org/view/932
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4QIM, 933, Holo, smoothened homolog/soluble cytochrome b562 chimeric protein in complex with, https://submission.gpcrmd.org/view/933
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 5L7I, 191, Apo, Smoothened, https://submission.gpcrmd.org/view/191
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 5L7I, 192, Holo, Smoothened homolog in complex with, https://submission.gpcrmd.org/view/192
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4JKV, 791, Apo, smoothened homolog, https://submission.gpcrmd.org/view/791
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4JKV, 792, Holo, smoothened homolog in complex with, https://submission.gpcrmd.org/view/792
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4N4W, 771, Apo, smoothened homolog, https://submission.gpcrmd.org/view/771
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4N4W, 772, Holo, smoothened homolog in complex with, https://submission.gpcrmd.org/view/772
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 6D35, 1134, Holo, smoothened in complex with, https://submission.gpcrmd.org/view/1134
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 6D35, 888, Apo, smoothened, https://submission.gpcrmd.org/view/888
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4O9R, 1022, Apo, smoothened homolog/soluble cytochrome b562 chimeric protein, https://submission.gpcrmd.org/view/1022
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 4O9R, 1023, Holo, smoothened homolog/soluble cytochrome b562 chimeric protein in complex with, https://submission.gpcrmd.org/view/1023
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 5L7D, 161, Apo, Smoothened, https://submission.gpcrmd.org/view/161
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 5V56, 823, Apo, smoothened homolog, https://submission.gpcrmd.org/view/823
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 5V56, 824, Holo, smoothened homolog in complex with, https://submission.gpcrmd.org/view/824
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 5V57, 740, Apo, smoothened homolog, https://submission.gpcrmd.org/view/740
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 5V57, 741, Holo, smoothened homolog in complex with, https://submission.gpcrmd.org/view/741
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 6D32, 892, Apo, smoothened, https://submission.gpcrmd.org/view/892
+Class F (Frizzled), Protein receptors, Frizzled, SMO, 6D32, 893, Holo, smoothened in complex with, https://submission.gpcrmd.org/view/893
