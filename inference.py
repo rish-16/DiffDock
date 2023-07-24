@@ -41,6 +41,9 @@ parser.add_argument('--inference_steps', type=int, default=20, help='Number of d
 parser.add_argument('--actual_steps', type=int, default=None, help='Number of denoising steps that are actually performed')
 args = parser.parse_args()
 
+import warnings
+warnings.filterwarnings("ignore")
+
 os.makedirs(args.out_dir, exist_ok=True)
 with open(f'{args.model_dir}/model_parameters.yml') as f:
     score_model_args = Namespace(**yaml.full_load(f))
